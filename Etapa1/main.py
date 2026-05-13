@@ -25,7 +25,7 @@ import pandas
 from pathlib import Path
 from tqdm import tqdm
 from analysis import visualizaciones
-
+from analysis import tendencias
 
 from sources import cisa_kev
 from sources import nuclei
@@ -142,6 +142,11 @@ def main():
     print()
     print("── Paso 7: Generando visualizaciones ──")
     visualizaciones.generar_todas(vulnerabilidades_enriquecidas, CARPETA_OUTPUT)
+
+    # ── PASO 8: Análisis de tendencias temporales (Bonus) ────────
+    print()
+    print("── Paso 8: Análisis de tendencias temporales (Bonus) ──")
+    tendencias.generar_todas(lista_cisa, vulnerabilidades_enriquecidas, CARPETA_OUTPUT)
 
     # ── FIN ───────────────────────────────────────────────────────
     print()
