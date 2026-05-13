@@ -1,0 +1,10 @@
+.env
+virtualEnv.txt
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+test*
+test_cisa_kev.py
+/sources/test_cisa_kev.py

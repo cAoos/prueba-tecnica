@@ -1,0 +1,18 @@
+# Para instalar todo de una vez (dentro del venv activado):
+#   pip install -r requirements.txt
+
+# Peticiones HTTP al NIST, CISA y GitHub
+requests==2.32.3
+
+# Manejo de datos en tablas (como Excel pero en Python)
+# 2.2.3 es la primera versión con soporte oficial para Python 3.13
+pandas==2.2.3
+
+# Leer variables de entorno desde el archivo .env (API key)
+python-dotenv==1.0.1
+
+# Barra de progreso visual mientras recorremos miles de CVEs
+tqdm==4.67.1
+
+# Gráficas para el análisis de tendencias (bonus)
+matplotlib==3.10.1
