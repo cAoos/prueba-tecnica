@@ -1,0 +1,2697 @@
+tipo,vendor,producto,cantidad_cves,v31_score_promedio,v31_score_maximo
+Aplicación,joomla,joomla\!,101,7.8,9.8
+Sistema Operativo,microsoft,windows_server_2008,78,8.11,9.8
+Sistema Operativo,microsoft,windows_7,77,8.08,9.8
+Sistema Operativo,microsoft,windows_8.1,69,8.18,9.8
+Sistema Operativo,microsoft,windows_server_2012,69,8.09,9.8
+Sistema Operativo,microsoft,windows_vista,64,7.97,9.8
+Sistema Operativo,microsoft,windows_rt_8.1,57,8.03,9.8
+Sistema Operativo,microsoft,windows,50,8.63,9.8
+Sistema Operativo,opensuse,opensuse,46,8.69,9.8
+Sistema Operativo,redhat,enterprise_linux_server,45,8.66,9.8
+Sistema Operativo,linux,linux_kernel,44,8.12,9.8
+Sistema Operativo,redhat,enterprise_linux_workstation,43,8.65,9.8
+Sistema Operativo,redhat,enterprise_linux_desktop,43,8.63,9.8
+Sistema Operativo,apple,mac_os_x,42,8.7,9.8
+Sistema Operativo,microsoft,windows_10_1507,40,7.96,9.8
+Sistema Operativo,cisco,ios,37,8.11,9.8
+Sistema Operativo,debian,debian_linux,35,8.77,10.0
+Sistema Operativo,suse,linux_enterprise_desktop,34,8.9,9.8
+Sistema Operativo,microsoft,windows_10_1511,34,7.91,9.8
+Aplicación,adobe,flash_player,33,8.97,9.8
+Sistema Operativo,microsoft,windows_8,32,8.51,9.8
+Sistema Operativo,redhat,enterprise_linux_eus,31,8.25,9.8
+Sistema Operativo,microsoft,windows_server_2003,30,8.44,9.8
+Sistema Operativo,microsoft,windows_10_1607,30,7.92,9.8
+Aplicación,microsoft,internet_explorer,28,8.16,9.8
+Sistema Operativo,redhat,enterprise_linux_server_aus,28,8.57,9.8
+Sistema Operativo,canonical,ubuntu_linux,27,8.1,9.8
+Aplicación,microsoft,office,27,8.11,8.8
+Sistema Operativo,microsoft,windows_server_2016,26,8.06,9.8
+Sistema Operativo,microsoft,windows_rt,24,8.37,9.8
+Sistema Operativo,cisco,ios_xe,23,7.26,9.8
+Aplicación,wordpress,wordpress,22,9.8,9.8
+Sistema Operativo,microsoft,windows_xp,20,8.34,9.8
+Aplicación,adobe,acrobat,18,8.38,9.8
+Sistema Operativo,suse,linux_enterprise_server,17,8.41,9.8
+Aplicación,adobe,acrobat_reader,16,8.38,9.8
+Sistema Operativo,google,android,14,8.17,9.8
+Aplicación,microsoft,office_compatibility_pack,14,8.08,8.8
+Aplicación,apache,struts,13,9.69,9.8
+Aplicación,oracle,jre,13,9.26,9.8
+Aplicación,joomla,joomla,13,,
+Sistema Operativo,suse,linux_enterprise_software_development_kit,12,8.06,9.8
+Sistema Operativo,suse,linux_enterprise_workstation_extension,12,8.55,9.8
+Sistema Operativo,redhat,enterprise_linux_server_tus,12,8.37,9.8
+Sistema Operativo,redhat,enterprise_linux,11,8.49,9.8
+Sistema Operativo,apple,macos,11,8.82,9.8
+Hardware,cisco,1100-4gltegb_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1100-4gltena_integrated_services_router,10,7.15,9.8
+Sistema Operativo,google,chrome_os,10,9.0,9.8
+Hardware,cisco,1100-4g_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1160_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1801_integrated_service_router,10,7.15,9.8
+Hardware,cisco,1802_integrated_service_router,10,7.15,9.8
+Hardware,cisco,1120_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1100_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1101-4p_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1906c_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1921_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1941_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1131_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1905_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1861_integrated_service_router,10,7.15,9.8
+Hardware,cisco,1811_integrated_service_router,10,7.15,9.8
+Hardware,cisco,1803_integrated_service_router,10,7.15,9.8
+Hardware,cisco,1841_integrated_service_router,10,7.15,9.8
+Hardware,cisco,1812_integrated_service_router,10,7.15,9.8
+Hardware,cisco,1100-lte_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1100-8p_integrated_services_router,10,7.15,9.8
+Hardware,cisco,asr_1002-x,10,7.37,9.8
+Hardware,cisco,asr_1001-hx,10,7.37,9.8
+Hardware,cisco,1941w_integrated_services_router,10,7.15,9.8
+Hardware,cisco,1101_integrated_services_router,10,7.15,9.8
+Hardware,cisco,asr_1001-x,10,7.37,9.8
+Hardware,cisco,asr_1002-hx,10,7.37,9.8
+Hardware,cisco,1100-4p_integrated_services_router,9,7.22,9.8
+Aplicación,microsoft,word,9,8.02,8.8
+Sistema Operativo,oracle,solaris,9,7.2,9.8
+Hardware,cisco,1100-6g_integrated_services_router,9,7.22,9.8
+Sistema Operativo,redhat,enterprise_linux_for_power_big_endian_eus,9,7.61,9.8
+Sistema Operativo,redhat,enterprise_linux_for_ibm_z_systems,9,8.34,9.8
+Sistema Operativo,microsoft,windows_10_1703,9,8.55,9.8
+Sistema Operativo,redhat,enterprise_linux_for_power_big_endian,9,8.03,9.8
+Hardware,cisco,1000_integrated_services_router,9,7.11,9.8
+Hardware,cisco,1100-4g\/6g_integrated_services_router,9,6.86,7.5
+Hardware,cisco,asr_1013,9,7.23,9.8
+Hardware,cisco,asr_1006,9,7.23,9.8
+Hardware,cisco,asr_1004,9,7.23,9.8
+Hardware,cisco,asr_1009-x,9,7.23,9.8
+Sistema Operativo,redhat,enterprise_linux_server_from_rhui,9,8.15,9.8
+Sistema Operativo,opensuse,evergreen,9,9.47,9.8
+Hardware,cisco,asr_1006-x,9,7.23,9.8
+Sistema Operativo,fedoraproject,fedora,8,8.4,10.0
+Aplicación,adobe,coldfusion,8,9.29,9.8
+Hardware,cisco,1111x-8p_integrated_services_router,8,7.06,9.8
+Hardware,cisco,1109_integrated_services_router,8,7.06,9.8
+Sistema Operativo,apple,iphone_os,8,7.96,9.8
+Hardware,cisco,4221_integrated_services_router,8,7.06,9.8
+Sistema Operativo,microsoft,windows_10,8,8.78,9.8
+Hardware,cisco,1109-2p_integrated_services_router,8,7.06,9.8
+Hardware,cisco,catalyst_ie3300_rugged_switch,8,6.9,7.5
+Hardware,cisco,asr_1000,8,7.06,9.8
+Hardware,cisco,asr_1001,8,7.06,9.8
+Hardware,cisco,asr_1002-x_r,8,7.06,9.8
+Hardware,cisco,asr_1001-hx_r,8,7.06,9.8
+Hardware,cisco,asr_1023,8,7.06,9.8
+Aplicación,netsweeper,netsweeper,8,6.46,9.8
+Hardware,cisco,asr_1002-hx_r,8,7.06,9.8
+Hardware,cisco,asr_1001-x_r,8,7.06,9.8
+Hardware,cisco,1109-4p_integrated_services_router,8,7.06,9.8
+Hardware,cisco,4000_integrated_services_router,8,7.06,9.8
+Hardware,cisco,catalyst_8500l,7,6.67,7.5
+Hardware,cisco,catalyst_8510csr,7,6.67,7.5
+Hardware,cisco,catalyst_8500,7,6.67,7.5
+Hardware,cisco,catalyst_8500-4qc,7,6.67,7.5
+Sistema Operativo,redhat,enterprise_linux_for_ibm_z_systems_eus,7,6.86,9.8
+Hardware,cisco,111x_integrated_services_router,7,7.0,9.8
+Hardware,cisco,catalyst_8300,7,6.67,7.5
+Hardware,cisco,1111x_integrated_services_router,7,7.0,9.8
+Hardware,cisco,4321_integrated_services_router,7,6.83,8.6
+Hardware,cisco,catalyst_8200,7,6.67,7.5
+Hardware,cisco,catalyst_8300-1n1s-6t,7,6.67,7.5
+Hardware,cisco,catalyst_8300-1n1s-4t2x,7,6.67,7.5
+Hardware,cisco,catalyst_8300-2n2s-4t2x,7,6.67,7.5
+Hardware,cisco,catalyst_8300-2n2s-6t,7,6.67,7.5
+Hardware,cisco,8218,7,7.14,9.8
+Hardware,cisco,4431_integrated_services_router,7,6.83,8.6
+Hardware,cisco,catalyst_8540csr,7,6.67,7.5
+Hardware,cisco,catalyst_8510msr,7,6.67,7.5
+Hardware,cisco,8212,7,7.14,9.8
+Hardware,cisco,4331_integrated_services_router,7,6.83,8.6
+Hardware,cisco,8101-32h,7,7.14,9.8
+Hardware,cisco,8102-64h,7,7.14,9.8
+Hardware,cisco,8800_12-slot,7,7.14,9.8
+Hardware,cisco,esr-6300-con-k9,7,6.81,7.5
+Hardware,cisco,8800_18-slot,7,7.14,9.8
+Hardware,cisco,8800_4-slot,7,7.14,9.8
+Hardware,cisco,8800_8-slot,7,7.14,9.8
+Hardware,cisco,8804,7,7.14,9.8
+Hardware,cisco,8808,7,7.14,9.8
+Hardware,cisco,8812,7,7.14,9.8
+Hardware,cisco,8818,7,7.14,9.8
+Aplicación,redhat,jboss_enterprise_application_platform,7,8.8,9.8
+Hardware,cisco,8202,7,7.14,9.8
+Hardware,cisco,8208,7,7.14,9.8
+Aplicación,oracle,jdk,7,9.72,9.8
+Hardware,cisco,8201-32fh,7,7.14,9.8
+Aplicación,netapp,oncommand_balance,7,8.53,9.8
+Aplicación,google,chrome,7,8.8,9.8
+Hardware,cisco,asr_1000-esp100,7,7.0,9.8
+Hardware,cisco,asr_1000-x,7,7.0,9.8
+Hardware,cisco,8201,7,7.14,9.8
+Hardware,cisco,4451-x_integrated_services_router,7,6.83,8.6
+Hardware,cisco,catalyst_8540msr,7,6.67,7.5
+Hardware,cisco,esr-6300-ncp-k9,7,6.81,7.5
+Hardware,cisco,8101-32fh,7,7.14,9.8
+Hardware,cisco,asr_1000-esp100-x,7,7.0,9.8
+Hardware,cisco,asr_1000-esp200-x,7,7.0,9.8
+Hardware,cisco,asr_1002,7,7.0,9.8
+Sistema Operativo,oracle,linux,7,8.21,9.8
+Aplicación,adobe,flash_player_desktop_runtime,7,9.23,9.8
+Sistema Operativo,opensuse,leap,7,7.26,9.8
+Sistema Operativo,redhat,enterprise_linux_server_eus,7,8.68,9.8
+Hardware,cisco,catalyst_3850-12xs-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-12xs-s,6,7.35,9.8
+Sistema Operativo,siemens,acuson_p300_firmware,6,8.47,8.8
+Sistema Operativo,siemens,acuson_p500_firmware,6,8.47,8.8
+Sistema Operativo,siemens,acuson_sc2000_firmware,6,8.47,8.8
+Sistema Operativo,siemens,acuson_x700_firmware,6,8.47,8.8
+Sistema Operativo,redhat,enterprise_linux_for_power_little_endian,6,7.05,9.8
+Sistema Operativo,redhat,enterprise_linux_for_power_little_endian_eus,6,6.93,9.8
+Sistema Operativo,siemens,syngo_sc2000_firmware,6,8.47,8.8
+Hardware,cisco,catalyst_3850-32xs-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48f-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48f-l,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48t-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48u,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48u-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48u-l,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48u-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24s-e,6,7.35,9.8
+Aplicación,microsoft,edge,6,8.63,9.8
+Aplicación,microsoft,excel_viewer,6,8.18,8.8
+Sistema Operativo,siemens,versant_kpcr_sample_prep_firmware,6,8.47,8.8
+Hardware,cisco,catalyst_ie3400_heavy_duty_switch,6,6.97,7.5
+Hardware,cisco,catalyst_ie3400_rugged_switch,6,6.97,7.5
+Hardware,cisco,cloud_services_router_1000v,6,6.72,8.6
+Hardware,cisco,catalyst_9800-l,6,6.7,7.5
+Hardware,cisco,catalyst_9800-l-c,6,6.7,7.5
+Hardware,cisco,catalyst_9800-l-f,6,6.7,7.5
+Hardware,cisco,catalyst_9500,6,6.7,7.5
+Hardware,cisco,catalyst_9500h,6,6.7,7.5
+Hardware,cisco,catalyst_9600,6,6.7,7.5
+Hardware,cisco,catalyst_9600x,6,6.7,7.5
+Hardware,cisco,catalyst_9800,6,6.7,7.5
+Aplicación,oracle,weblogic_server,6,8.84,9.8
+Hardware,cisco,catalyst_9300l-24p-4x-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-24p-4x-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-24t-4g-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-24t-4g-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-24t-4x-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-24t-4x-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-48p-4g-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-48p-4g-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-48p-4x-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-48p-4x-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-48t-4g-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-48t-4g-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-48t-4x-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-48t-4x-e,6,6.7,7.5
+Hardware,cisco,catalyst_ie3200_rugged_switch,6,7.23,7.5
+Hardware,cisco,catalyst_9300x,6,6.7,7.5
+Hardware,cisco,catalyst_9300l_stack,6,6.7,7.5
+Hardware,cisco,catalyst_9300lm,6,6.7,7.5
+Hardware,cisco,catalyst_9300-24ux-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48p-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48p-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48s-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48s-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48t-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48t-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48u-a,6,6.7,7.5
+Hardware,cisco,8831,6,7.08,9.8
+Hardware,cisco,catalyst_3850-24xu,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24xu-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24xu-l,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24xu-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850,6,7.35,9.8
+Hardware,cisco,catalyst_3850-12s-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24s-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24t-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24t-l,6,7.35,9.8
+Hardware,cisco,catalyst_9300-48u-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48un-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48un-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48uxm-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300-48uxm-e,6,6.7,7.5
+Hardware,cisco,catalyst_9800-cl,6,6.7,7.5
+Hardware,cisco,catalyst_9200,6,6.7,7.5
+Hardware,cisco,catalyst_9200cx,6,6.7,7.5
+Hardware,cisco,catalyst_9200l,6,6.7,7.5
+Hardware,cisco,catalyst_9300,6,6.7,7.5
+Hardware,cisco,catalyst_9300-24p-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300-24p-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300-24s-a,6,6.7,7.5
+Hardware,cisco,4451_integrated_services_router,6,6.53,7.5
+Hardware,cisco,4461_integrated_services_router,6,6.53,7.5
+Hardware,cisco,integrated_services_virtual_router,6,6.53,7.5
+Aplicación,oracle,fusion_middleware,6,8.36,9.8
+Hardware,cisco,catalyst_9300-24s-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300-24t-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300-24t-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300-24u-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300-24u-e,6,6.7,7.5
+Hardware,cisco,catalyst_9300-24ux-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300l,6,6.7,7.5
+Hardware,siemens,acuson_x700,6,8.47,8.8
+Hardware,siemens,acuson_p300,6,8.47,8.8
+Hardware,cisco,catalyst_3850-16xs-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-16xs-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24p-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24p-l,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24p-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24pw-s,6,7.35,9.8
+Hardware,cisco,44461_integrated_services_router,6,6.53,7.5
+Hardware,cisco,catalyst_9300l-24p-4g-a,6,6.7,7.5
+Hardware,cisco,catalyst_9300l-24p-4g-e,6,6.7,7.5
+Aplicación,netapp,oncommand_insight,6,9.38,10.0
+Hardware,cisco,catalyst_3850-24t-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24u,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24u-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24u-l,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24u-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24xs,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24xs-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-24xs-s,6,7.35,9.8
+Hardware,cisco,4331\/k9-ws_integrated_services_router,6,6.53,7.5
+Hardware,cisco,4331\/k9_integrated_services_router,6,6.53,7.5
+Hardware,siemens,versant_kpcr_molecular_system,6,8.47,8.8
+Hardware,siemens,versant_kpcr_sample_prep,6,8.47,8.8
+Hardware,siemens,acuson_p500,6,8.47,8.8
+Hardware,siemens,acuson_sc2000,6,8.47,8.8
+Hardware,cisco,catalyst_3850-48f-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48p-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48p-l,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48p-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48pw-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48t-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48t-l,6,7.35,9.8
+Hardware,siemens,syngo_sc2000,6,8.47,8.8
+Hardware,siemens,tissue_preparation_system,6,8.47,8.8
+Hardware,cisco,422_integrated_services_router,6,6.92,9.8
+Hardware,cisco,4321\/k9-rf_integrated_services_router,6,6.53,7.5
+Hardware,cisco,4321\/k9-ws_integrated_services_router,6,6.53,7.5
+Hardware,cisco,4321\/k9_integrated_services_router,6,6.53,7.5
+Hardware,cisco,4331\/k9-rf_integrated_services_router,6,6.53,7.5
+Aplicación,sap,netweaver_application_server_java,6,7.77,10.0
+Hardware,cisco,4351\/k9-rf_integrated_services_router,6,6.53,7.5
+Hardware,cisco,4351\/k9-ws_integrated_services_router,6,6.53,7.5
+Hardware,cisco,4351\/k9_integrated_services_router,6,6.53,7.5
+Sistema Operativo,fortinet,fortios,6,,
+Hardware,cisco,catalyst_3850-48xs,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48xs-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48xs-f-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48xs-f-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-48xs-s,6,7.35,9.8
+Hardware,cisco,catalyst_3850-nm-2-40g,6,7.35,9.8
+Hardware,cisco,catalyst_3850-nm-8-10g,6,7.35,9.8
+Hardware,cisco,catalyst_3850-32xs-e,6,7.35,9.8
+Hardware,cisco,catalyst_3850-12x48u,6,7.35,9.8
+Hardware,cisco,catalyst_3850-12s-s,6,7.35,9.8
+Sistema Operativo,siemens,versant_kpcr_molecular_system_firmware,6,8.47,8.8
+Sistema Operativo,siemens,tissue_preparation_system_firmware,6,8.47,8.8
+Aplicación,adobe,air,6,8.25,8.8
+Aplicación,suse,linux_enterprise_debuginfo,6,7.46,9.8
+Hardware,cisco,catalyst_3650-48ts-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48ts-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48tq-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48tq-l,5,7.32,9.8
+Sistema Operativo,redhat,enterprise_linux_for_scientific_computing,5,8.05,9.8
+Hardware,cisco,catalyst_3650-24pdm-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24pdm-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24pdm,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24pd-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24pd-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24pd-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24pd,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48uz-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24td-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24ps-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24ps-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24ps-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24pdm-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48fd-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650,5,7.32,9.8
+Aplicación,microsoft,server_message_block,5,8.66,8.8
+Aplicación,microsoft,word_viewer,5,8.2,8.8
+Aplicación,filezilla-project,filezilla_server,5,7.5,7.5
+Aplicación,microsoft,sharepoint_server,5,8.0,8.8
+Hardware,cisco,catalyst_3650-12x48ur-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48ur-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48ur-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48ur,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48uq-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48uq-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48uq-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48uq,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48fd-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48fd-l,5,7.32,9.8
+Aplicación,mozilla,firefox,5,9.45,9.8
+Hardware,cisco,catalyst_9800-80,5,6.54,7.5
+Hardware,cisco,catalyst_9800-40,5,6.54,7.5
+Hardware,cisco,catalyst_9410r,5,6.54,7.5
+Hardware,cisco,catalyst_9407r,5,6.54,7.5
+Hardware,cisco,catalyst_9400,5,6.54,7.5
+Hardware,cisco,catalyst_3650-12x48uz-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48uz-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-12x48uz,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fqm-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fqm-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fqm-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fqm,5,7.32,9.8
+Hardware,cisco,9800-l,5,7.64,9.8
+Hardware,cisco,9800-cl,5,7.64,9.8
+Hardware,cisco,9800-80,5,7.64,9.8
+Hardware,cisco,9800-40,5,7.64,9.8
+Hardware,cisco,4351_integrated_services_router,5,7.2,8.6
+Aplicación,redhat,gluster_storage_server_for_on-premise,5,8.94,9.8
+Hardware,cisco,catalyst_3650-48fq-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fq-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fq-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fq,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fd-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fd-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fd-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24ts-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24ts-l,5,7.32,9.8
+Hardware,rockwellautomation,allen-bradley_armorstratix_5700,5,8.52,8.8
+Hardware,rockwellautomation,allen-bradley_stratix_8000,5,8.52,8.8
+Hardware,rockwellautomation,allen-bradley_stratix_5700,5,8.52,8.8
+Hardware,rockwellautomation,allen-bradley_stratix_5410,5,8.52,8.8
+Hardware,rockwellautomation,allen-bradley_stratix_5400,5,8.52,8.8
+Sistema Operativo,cisco,ios_xr,5,6.26,8.8
+Aplicación,apache,tomcat,5,9.57,9.8
+Hardware,cisco,catalyst_3650-24ts-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24td-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-24td-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48tq-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48td-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48td-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48td-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48ps-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48ps-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48ps-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48pq-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48pq-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48pq-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48pd-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48pd-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48pd-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fs-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fs-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48fs-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-8x24uq-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-8x24uq-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-8x24uq-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-8x24uq,5,7.32,9.8
+Hardware,cisco,catalyst_3650-8x24pd-s,5,7.32,9.8
+Hardware,cisco,catalyst_3650-8x24pd-l,5,7.32,9.8
+Hardware,cisco,catalyst_3650-8x24pd-e,5,7.32,9.8
+Hardware,cisco,catalyst_3650-48ts-s,5,7.32,9.8
+Aplicación,adobe,air_sdk_\&_compiler,5,9.0,9.8
+Aplicación,adobe,air_sdk,5,9.0,9.8
+Aplicación,redhat,fuse,4,9.38,9.8
+Sistema Operativo,cisco,adaptive_security_appliance_software,4,7.55,8.8
+Sistema Operativo,microsoft,windows_2000,4,7.8,7.8
+Hardware,cisco,catalyst_9600_supervisor_engine-1,4,7.1,7.5
+Hardware,cisco,asr_901-12c-ft-d,4,7.68,9.8
+Hardware,cisco,catalyst_ie9300,4,7.5,7.5
+Hardware,rockwellautomation,allen-bradley_stratix_8300,4,8.65,8.8
+Hardware,cisco,asr_901-12c-f-d,4,7.68,9.8
+Aplicación,proftpd,proftpd,4,9.8,9.8
+Hardware,cisco,asr_901-4c-f-d,4,7.68,9.8
+Hardware,cisco,asr_901-4c-ft-d,4,7.68,9.8
+Aplicación,microsoft,office_word_viewer,4,8.0,8.8
+Hardware,cisco,asr_901-6cz-f-d,4,7.68,9.8
+Hardware,cisco,asr_901-6cz-f-a,4,7.68,9.8
+Hardware,cisco,asr_901-6cz-ft-d,4,7.68,9.8
+Hardware,cisco,asr_901-6cz-ft-a,4,7.68,9.8
+Sistema Operativo,suse,linux_enterprise,4,8.02,8.8
+Aplicación,nagios,nagios_xi,4,,
+Aplicación,microsoft,silverlight,4,7.48,8.8
+Aplicación,microsoft,powerpoint,4,8.6,8.8
+Aplicación,microsoft,open_xml_file_format_converter,4,7.8,7.8
+Aplicación,netapp,oncommand_shift,4,8.95,9.8
+Aplicación,mozilla,thunderbird,4,9.41,9.8
+Aplicación,south_river_technologies,titan_ftp_server,4,,
+Sistema Operativo,opengroup,unix,4,8.65,9.8
+Aplicación,microsoft,excel,4,8.24,8.8
+Aplicación,hp,system_management_homepage,4,9.3,9.8
+Aplicación,jenkins,jenkins,4,9.03,9.8
+Hardware,cisco,1100_terminal_services_gateways,3,7.5,7.5
+Aplicación,cisco,unified_communications_manager,3,10.0,10.0
+Aplicación,redhat,satellite,3,8.3,9.8
+Aplicación,redhat,virtualization,3,9.03,9.8
+Sistema Operativo,ibm,storwize_v7000_firmware,3,9.8,9.8
+Sistema Operativo,redhat,enterprise_linux_eus_compute_node,3,7.54,8.1
+Sistema Operativo,paloaltonetworks,pan-os,3,8.4,9.8
+Aplicación,f5,big-ip_policy_enforcement_manager,3,8.94,9.8
+Hardware,cisco,asr_901s-3sg-f-d,3,7.73,9.8
+Hardware,cisco,asr_901s-4sg-f-d,3,7.73,9.8
+Hardware,cisco,asr_902,3,7.73,9.8
+Hardware,cisco,asr_902u,3,7.73,9.8
+Aplicación,oracle,mysql_enterprise_monitor,3,9.23,9.8
+Hardware,cisco,asr_900,3,7.73,9.8
+Aplicación,dnnsoftware,dotnetnuke,3,8.8,8.8
+Hardware,cisco,catalyst_9400_supervisor_engine-1,3,6.97,7.5
+Hardware,cisco,asr_9001,3,8.7,9.8
+Hardware,cisco,asr_9006,3,8.7,9.8
+Hardware,ibm,storwize_v7000,3,9.8,9.8
+Hardware,ibm,storwize_v5000,3,9.8,9.8
+Hardware,ibm,storwize_v3500,3,9.8,9.8
+Aplicación,redhat,jboss_enterprise_web_server,3,8.44,9.8
+Aplicación,imagemagick,imagemagick,3,6.47,8.4
+Sistema Operativo,microsoft,windows_2003_server,3,8.3,8.8
+Sistema Operativo,ibm,storwize_v5000_firmware,3,9.8,9.8
+Sistema Operativo,ibm,storwize_v3500_firmware,3,9.8,9.8
+Hardware,cisco,asr_901s-2sg-f-d,3,7.73,9.8
+Hardware,cisco,asr_901s-3sg-f-ah,3,7.73,9.8
+Hardware,cisco,asr_901-6cz-fs-a,3,7.73,9.8
+Hardware,cisco,asr_9922,3,8.7,9.8
+Hardware,cisco,asr_901s-2sg-f-ah,3,7.73,9.8
+Hardware,cisco,asr_901-6cz-fs-d,3,7.73,9.8
+Hardware,cisco,asr_9010,3,8.4,9.8
+Aplicación,f5,big-ip_application_security_manager,3,8.94,9.8
+Aplicación,f5,big-ip_global_traffic_manager,3,8.94,9.8
+Aplicación,f5,big-ip_edge_gateway,3,8.37,9.8
+Aplicación,f5,big-ip_link_controller,3,8.94,9.8
+Aplicación,magmi_project,magmi,3,,
+Aplicación,f5,big-ip_local_traffic_manager,3,8.94,9.8
+Aplicación,microsoft,office_web_apps,3,7.8,7.8
+Aplicación,newstatpress_project,newstatpress,3,,
+Aplicación,netapp,oncommand_workflow_automation,3,9.23,9.8
+Aplicación,oracle,communications_instant_messaging_server,3,9.23,9.8
+Aplicación,netfortris,trixbox,3,7.65,8.8
+Hardware,cisco,asr_9904,3,8.7,9.8
+Hardware,cisco,asr_9906,3,8.7,9.8
+Hardware,cisco,asr_9910,3,8.7,9.8
+Hardware,cisco,asr_9912,3,8.7,9.8
+Aplicación,f5,big-iq_device,3,8.37,9.8
+Aplicación,f5,big-ip_application_acceleration_manager,3,8.94,9.8
+Aplicación,gnu,bash,3,8.87,9.8
+Aplicación,netapp,snapcenter,3,9.3,10.0
+Aplicación,microsoft,outlook,3,8.18,8.8
+Aplicación,f5,enterprise_manager,3,7.65,9.8
+Aplicación,f5,big-iq_security,3,8.37,9.8
+Aplicación,f5,big-ip_webaccelerator,3,8.37,9.8
+Aplicación,f5,big-iq_cloud,3,8.37,9.8
+Aplicación,f5,big-ip_access_policy_manager,3,8.94,9.8
+Aplicación,f5,big-ip_advanced_firewall_manager,3,8.94,9.8
+Aplicación,f5,big-ip_analytics,3,8.94,9.8
+Aplicación,adobe,air_desktop_runtime,3,9.13,9.8
+Aplicación,f5,big-ip_protocol_security_module,3,8.37,9.8
+Aplicación,f5,big-ip_wan_optimization_manager,3,8.37,9.8
+Aplicación,southrivertech,titan_ftp_server,3,,
+Aplicación,suse,manager,3,6.93,9.8
+Aplicación,suse,manager_proxy,3,6.93,9.8
+Aplicación,squirrelmail,squirrelmail,3,,
+Aplicación,tiki,tikiwiki_cms\/groupware,3,7.95,9.8
+Aplicación,vsftpd_project,vsftpd,3,9.8,9.8
+Aplicación,suse,openstack_cloud,3,6.93,9.8
+Sistema Operativo,suse,linux_enterprise_java,3,9.8,9.8
+Sistema Operativo,suse,linux_enterprise_real_time_extension,2,7.8,7.8
+Sistema Operativo,suse,linux_enterprise_high_availability_extension,2,8.8,9.8
+Sistema Operativo,redhat,enterprise_linux_hpc_node,2,5.5,5.5
+Aplicación,suse,studio_onsite,2,9.8,9.8
+Aplicación,xceedium,xsuite,2,,
+Aplicación,wordpress,sniplets_plugin,2,,
+Aplicación,vmware,vcenter_server_appliance,2,9.8,9.8
+Aplicación,themepunch,showbiz_pro,2,9.8,9.8
+Aplicación,telerik,ui_for_asp.net_ajax,2,9.8,9.8
+Aplicación,strategy11,formidable_form_builder,2,6.8,8.3
+Aplicación,adobe,adobe_air,2,8.8,8.8
+Sistema Operativo,netgear,d6400_firmware,2,8.45,8.8
+Aplicación,apple,xcode,2,10.0,10.0
+Sistema Operativo,redhat,enterprise_linux_hpc_node_eus,2,5.5,5.5
+Hardware,cisco,catalyst_3750x-48pf-s,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-48pf-l,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-48pf-e,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-48p-s,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-48p-l,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-48p-e,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24u-s,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24u-l,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24u-e,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24p-s,2,8.65,9.8
+Aplicación,apache,activemq,2,9.8,9.8
+Sistema Operativo,suse,suse_linux_enterprise_server,2,6.47,8.4
+Sistema Operativo,netgear,d6220_firmware,2,8.45,8.8
+Sistema Operativo,netgear,dgn2200_firmware,2,9.8,9.8
+Hardware,cisco,1120_connected_grid_router,2,7.5,7.5
+Hardware,cisco,1120,2,7.5,7.5
+Hardware,cisco,catalyst_2960x-48fps-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960xr-48ts-i,2,8.65,9.8
+Hardware,cisco,catalyst_2960xr-48td-i,2,8.65,9.8
+Hardware,cisco,catalyst_2960xr-48lps-i,2,8.65,9.8
+Aplicación,microsoft,xml_core_services,2,8.34,8.8
+Aplicación,netapp,active_iq_unified_manager,2,9.24,10.0
+Hardware,cisco,catalyst_6513,2,7.65,8.8
+Aplicación,finecms,finecms,2,,
+Aplicación,f5,traffix_signaling_delivery_controller,2,9.8,9.8
+Aplicación,netapp,7-mode_transition_tool,2,8.95,9.8
+Hardware,cisco,catalyst_2960xr-48lpd-i,2,8.65,9.8
+Hardware,cisco,catalyst_2960xr-48fps-i,2,8.65,9.8
+Hardware,cisco,catalyst_3560cg-8tc-s,2,8.65,9.8
+Hardware,cisco,catalyst_3560cg-8pc-s,2,8.65,9.8
+Hardware,cisco,catalyst_3560c-8pc-s,2,8.65,9.8
+Hardware,cisco,catalyst_3560c-12pc-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-f24ts-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-f24ps-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-48ts-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960xr-48fpd-i,2,8.65,9.8
+Hardware,cisco,catalyst_2960xr-24ts-i,2,8.65,9.8
+Hardware,cisco,catalyst_2960xr-24td-i,2,8.65,9.8
+Hardware,cisco,catalyst_2960xr-24ps-i,2,8.65,9.8
+Hardware,cisco,catalyst_2960xr-24pd-i,2,8.65,9.8
+Hardware,cisco,catalyst_2960x-48ts-ll,2,8.65,9.8
+Hardware,cisco,catalyst_2960x-48ts-l,2,8.65,9.8
+Aplicación,mozilla,thunderbird_esr,2,7.65,8.8
+Aplicación,netapp,oncommand_unified_manager,2,9.47,9.8
+Aplicación,netapp,oncommand_performance_manager,2,8.4,9.8
+Hardware,cisco,catalyst_2960x-48td-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960x-48lps-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960x-48lpd-l,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-24u-l,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-24u-e,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-24t-s,2,8.65,9.8
+Aplicación,microsoft,visual_foxpro,2,8.8,8.8
+Aplicación,microsoft,visual_basic,2,8.8,8.8
+Aplicación,microsoft,visio,2,8.13,8.8
+Hardware,cisco,catalyst_3560x-24t-l,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-24t-e,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-24p-s,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-24p-l,2,8.65,9.8
+Hardware,cisco,catalyst_6504-e,2,7.65,8.8
+Hardware,cisco,catalyst_2960s-f48lps-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-f48fps-l,2,8.65,9.8
+Aplicación,netapp,storagegrid,2,9.8,9.8
+Aplicación,netapp,storage_automation_store,2,9.8,9.8
+Hardware,cisco,catalyst_2960s-f24ts-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-24pd-l,2,8.65,9.8
+Aplicación,odoo,odoo,2,,
+Aplicación,novell,zenworks_configuration_management,2,9.8,9.8
+Aplicación,nodejs,node.js,2,,
+Hardware,cisco,catalyst_2960l-8ts-ll,2,8.05,9.8
+Hardware,cisco,catalyst_2960l-8ps-ll,2,8.05,9.8
+Hardware,cisco,catalyst_2960l-48ts-ll,2,8.05,9.8
+Hardware,cisco,catalyst_2960x-48fpd-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960x-24ts-ll,2,8.65,9.8
+Hardware,cisco,catalyst_2960x-24ts-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960x-24td-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960x-24ps-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960x-24pd-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-f48ts-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-f48ts-l,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-24u-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960l-16ts-ll,2,8.05,9.8
+Hardware,cisco,catalyst_2960l-16ps-ll,2,8.05,9.8
+Aplicación,oracle,communications_interactive_session_recorder,2,9.8,9.8
+Hardware,cisco,catalyst_2960cpd-8tt-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960cpd-8pt-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960cg-8tc-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-48ts-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-48td-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-48lps-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-48lpd-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-48fps-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-48fpd-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-24ts-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-24ts-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-24td-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960s-24ps-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960-plus_48pst-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960-plus_48pst-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960-plus_24tc-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960-plus_24tc-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960-plus_24pc-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960-plus_24pc-l,2,8.65,9.8
+Aplicación,oracle,agile_plm,2,8.67,9.8
+Aplicación,opsview,opsview,2,,
+Aplicación,oracle,financial_services_analytical_applications_infrastructure,2,8.95,9.8
+Aplicación,oracle,enterprise_manager_for_mysql_database,2,8.95,9.8
+Aplicación,oracle,endeca_information_discovery_studio,2,9.8,9.8
+Hardware,cisco,catalyst_2960-plus_24lc-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960-plus_24lc-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960l-48ps-ll,2,8.05,9.8
+Hardware,cisco,catalyst_2960l-24ts-ll,2,8.05,9.8
+Hardware,cisco,catalyst_2960l-24ps-ll,2,8.05,9.8
+Hardware,cisco,asr_920-24tz-m_r,2,8.65,9.8
+Hardware,cisco,asr_920-24tz-m,2,8.65,9.8
+Hardware,cisco,asr_920-24sz-m_r,2,8.65,9.8
+Hardware,cisco,asr_920-24sz-m,2,8.65,9.8
+Hardware,cisco,asr_920-24sz-im_r,2,8.65,9.8
+Hardware,cisco,asr_9920,2,8.65,9.8
+Hardware,cisco,asr_9903,2,8.65,9.8
+Hardware,cisco,asr_9902,2,8.65,9.8
+Aplicación,oracle,hospitality_guest_access,2,8.95,9.8
+Aplicación,oracle,glassfish_server,2,,
+Hardware,cisco,catalyst_2960c-8tc-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960c-8tc-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960c-8pc-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960c-12pc-l,2,8.65,9.8
+Hardware,cisco,catalyst_2960-plus_48tc-s,2,8.65,9.8
+Hardware,cisco,catalyst_2960-plus_48tc-l,2,8.65,9.8
+Hardware,cisco,asr_920-12sz-im,2,8.65,9.8
+Hardware,cisco,asr_920-12cz-d_r,2,8.65,9.8
+Hardware,cisco,asr_920-12cz-d,2,8.65,9.8
+Hardware,cisco,asr_920-12cz-a_r,2,8.65,9.8
+Hardware,cisco,asr_920-12cz-a,2,8.65,9.8
+Hardware,cisco,asr_920-10sz-pd_r,2,8.65,9.8
+Hardware,cisco,asr_920-10sz-pd,2,8.65,9.8
+Hardware,cisco,asr_914,2,8.65,9.8
+Hardware,cisco,asr_907,2,8.65,9.8
+Hardware,cisco,asr_903,2,8.65,9.8
+Hardware,cisco,asr_9901,2,8.65,9.8
+Hardware,cisco,asr_920u-12sz-im,2,8.65,9.8
+Hardware,cisco,asr_920-4sz-d_r,2,8.65,9.8
+Hardware,cisco,asr_920-4sz-d,2,8.65,9.8
+Hardware,cisco,asr_920-4sz-a_r,2,8.65,9.8
+Hardware,cisco,asr_920-4sz-a,2,8.65,9.8
+Aplicación,hdw-tube_project,hdw-tube,2,,
+Hardware,cisco,catalyst_6513-e,2,7.65,8.8
+Aplicación,microsoft,office_web_components,2,8.8,8.8
+Aplicación,microsoft,office_web_apps_server,2,7.8,7.8
+Aplicación,microsoft,commerce_server,2,8.8,8.8
+Aplicación,microsoft,.net_framework,2,7.8,7.8
+Aplicación,microsoft,office_excel_viewer,2,8.3,8.8
+Aplicación,microsoft,lync,2,7.8,7.8
+Hardware,cisco,catalyst_3560x-48u-s,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48u-l,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48u-e,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48t-s,2,8.65,9.8
+Aplicación,oracle,retail_convenience_and_fuel_pos_software,2,8.95,9.8
+Aplicación,oracle,retail_advanced_inventory_planning,2,8.67,9.8
+Hardware,cisco,asr_920-24sz-im,2,8.65,9.8
+Hardware,cisco,asr_920-12sz-im_r,2,8.65,9.8
+Aplicación,microsoft,exchange_server,2,7.8,7.8
+Aplicación,ibm,infosphere_guardium_database_activity_monitoring,2,9.8,9.8
+Aplicación,hp,version_control_repository_manager,2,9.47,9.8
+Aplicación,ibm,workload_deployer,2,9.8,9.8
+Aplicación,ibm,starter_kit_for_cloud,2,9.8,9.8
+Aplicación,ibm,software_defined_network_for_virtual_environments,2,9.8,9.8
+Aplicación,ibm,smartcloud_provisioning,2,9.8,9.8
+Aplicación,ibm,smartcloud_entry_appliance,2,9.8,9.8
+Hardware,cisco,catalyst_6509-v-e,2,7.65,8.8
+Hardware,cisco,catalyst_6509-neb-a,2,7.65,8.8
+Hardware,cisco,catalyst_6509-e,2,7.65,8.8
+Hardware,cisco,catalyst_6506-e,2,7.65,8.8
+Aplicación,oracle,instantis_enterprisetrack,2,8.67,9.8
+Hardware,cisco,catalyst_6503-e,2,7.65,8.8
+Hardware,cisco,catalyst_6500-e,2,7.65,8.8
+Hardware,cisco,catalyst_6500,2,7.65,8.8
+Hardware,cisco,esr6300,2,7.5,7.5
+Aplicación,philips,intellispace_portal,2,8.3,8.8
+Aplicación,oracle,transportation_management,2,9.01,9.8
+Hardware,cisco,asr_9000v,2,8.65,9.8
+Hardware,cisco,catalyst_9800-40_wireless_controller,2,7.5,7.5
+Hardware,cisco,catalyst_9800_embedded_wireless_controller,2,7.5,7.5
+Hardware,cisco,catalyst_9800-80_wireless_controller,2,7.5,7.5
+Hardware,cisco,asr_9000,2,8.65,9.8
+Aplicación,oracle,micros_retail_xbri_loss_prevention,2,8.95,9.8
+Aplicación,exim,exim,2,8.8,9.8
+Aplicación,elasticsearch,elasticsearch,2,,
+Aplicación,elastic,elasticsearch,2,8.95,9.8
+Aplicación,hp,systems_insight_manager,2,9.3,9.8
+Hardware,cisco,catalyst_4500_supervisor_engine_6l-e,2,8.65,9.8
+Hardware,cisco,catalyst_4500_supervisor_engine_6-e,2,8.65,9.8
+Hardware,cisco,catalyst_4900m,2,8.65,9.8
+Hardware,cisco,asa_5525-x,2,8.3,8.8
+Hardware,cisco,asa_5520,2,8.3,8.8
+Hardware,cisco,asa_5516-x,2,8.3,8.8
+Hardware,cisco,asa_5515-x,2,8.3,8.8
+Hardware,cisco,asa_5512-x,2,8.3,8.8
+Hardware,cisco,asa_5510,2,8.3,8.8
+Hardware,cisco,asa_5508-x,2,8.3,8.8
+Hardware,cisco,asa_5506w-x,2,8.3,8.8
+Hardware,cisco,asa_5506h-x,2,8.3,8.8
+Hardware,cisco,asa_5506-x,2,8.3,8.8
+Hardware,cisco,embedded_service_2020_con_b,2,8.65,9.8
+Hardware,cisco,embedded_service_2020_con,2,8.65,9.8
+Hardware,cisco,embedded_service_2020_24tc_ncp_b,2,8.65,9.8
+Hardware,cisco,embedded_service_2020_24tc_ncp,2,8.65,9.8
+Hardware,cisco,embedded_service_2020_24tc_con_b,2,8.65,9.8
+Hardware,cisco,embedded_service_2020_24tc_con,2,8.65,9.8
+Hardware,cisco,pix_firewall_515e,2,8.3,8.8
+Hardware,cisco,pix_firewall_515,2,8.3,8.8
+Hardware,cisco,pix_firewall_506e,2,8.3,8.8
+Hardware,cisco,pix_firewall_506,2,8.3,8.8
+Hardware,dasannetworks,gpon_router,2,9.8,9.8
+Hardware,cisco,asa_5505,2,8.3,8.8
+Hardware,cisco,asa_5500_csc-ssm,2,8.3,8.8
+Hardware,cisco,asa_5500-x,2,8.3,8.8
+Hardware,cisco,asa_5500,2,8.3,8.8
+Aplicación,phppgadmin,phppgadmin,2,,
+Hardware,cisco,asa_5585-x,2,8.3,8.8
+Hardware,cisco,asa_5580,2,8.3,8.8
+Hardware,cisco,asa_5555-x,2,8.3,8.8
+Hardware,cisco,asa_5550,2,8.3,8.8
+Hardware,cisco,asa_5545-x,2,8.3,8.8
+Hardware,cisco,asa_5540,2,8.3,8.8
+Aplicación,ibm,qradar_security_information_and_event_manager,2,9.8,9.8
+Aplicación,ibm,qradar_risk_manager,2,9.8,9.8
+Aplicación,ibm,pureapplication_system,2,9.8,9.8
+Hardware,cisco,catalyst_3750x-48u-s,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-48u-l,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-48u-e,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-48t-s,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24t-s,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24t-l,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24t-e,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24s-s,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24s-e,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24p-l,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-24p-e,2,8.65,9.8
+Hardware,cisco,pix_firewall_525,2,8.3,8.8
+Hardware,cisco,pix_firewall_520,2,8.3,8.8
+Hardware,ibm,stn7800,2,9.8,9.8
+Hardware,ibm,stn6800,2,9.8,9.8
+Hardware,ibm,stn6500,2,9.8,9.8
+Hardware,ibm,san_volume_controller,2,9.8,9.8
+Hardware,ibm,flex_system_v7000,2,9.8,9.8
+Hardware,netgear,d6220,2,8.45,8.8
+Hardware,ibm,storwize_v3700,2,9.8,9.8
+Aplicación,redhat,jboss_enterprise_web_server_text-only_advisories,2,8.1,8.1
+Hardware,cisco,embedded_service_2020_ncp_b,2,8.65,9.8
+Hardware,cisco,embedded_service_2020_ncp,2,8.65,9.8
+Hardware,cisco,pix_firewall_501,2,8.3,8.8
+Hardware,citrix,netscaler_sdx,2,9.8,9.8
+Hardware,cisco,rv134w,2,9.8,9.8
+Hardware,cisco,rv132w,2,9.8,9.8
+Hardware,cisco,pix_firewall_535,2,8.3,8.8
+Aplicación,ibm,qradar_vulnerability_manager,2,9.8,9.8
+Sistema Operativo,arista,eos,2,9.8,9.8
+Sistema Operativo,citrix,netscaler_sdx_firmware,2,9.8,9.8
+Sistema Operativo,cisco,rv134w_firmware,2,9.8,9.8
+Sistema Operativo,cisco,rv132w_firmware,2,9.8,9.8
+Hardware,netgear,dgn2200,2,9.8,9.8
+Hardware,netgear,d6400,2,8.45,8.8
+Hardware,rockwellautomation,allen-bradley_stratix_8300_industrial_managed_ethernet_switch,2,8.3,8.6
+Hardware,rockwellautomation,allen-bradley_stratix_5900,2,8.7,8.8
+Hardware,cisco,3945e_integrated_services_router,2,5.9,5.9
+Hardware,cisco,3945_integrated_services_router,2,5.9,5.9
+Aplicación,redhat,storage,2,8.65,9.8
+Hardware,f5,arx,2,9.8,9.8
+Hardware,dlink,dwr-921,2,8.15,8.8
+Hardware,dlink,dwr-512,2,8.15,8.8
+Hardware,dlink,dwr-116,2,8.15,8.8
+Hardware,dlink,dwr-111,2,8.15,8.8
+Sistema Operativo,mageia,mageia,2,9.8,9.8
+Hardware,cisco,3925e_integrated_services_router,2,5.9,5.9
+Hardware,cisco,3925_integrated_services_router,2,5.9,5.9
+Sistema Operativo,dasannetworks,gpon_router_firmware,2,9.8,9.8
+Sistema Operativo,f5,arx_firmware,2,9.8,9.8
+Sistema Operativo,dlink,dwr-912_firmware,2,8.15,8.8
+Sistema Operativo,dlink,dwr-512_firmware,2,8.15,8.8
+Sistema Operativo,dlink,dwr-116_firmware,2,8.15,8.8
+Sistema Operativo,dlink,dwr-111_firmware,2,8.15,8.8
+Sistema Operativo,ibm,security_access_manager_for_web_7.0_firmware,2,9.8,9.8
+Sistema Operativo,ibm,security_access_manager_for_mobile_8.0_firmware,2,9.8,9.8
+Sistema Operativo,ibm,san_volume_controller_firmware,2,9.8,9.8
+Sistema Operativo,ibm,flex_system_v7000_firmware,2,9.8,9.8
+Aplicación,samba,samba,2,9.8,9.8
+Aplicación,rubyonrails,rails,2,7.5,7.5
+Aplicación,cisco,firepower_threat_defense,2,9.04,10.0
+Hardware,cisco,1117-4pwe,2,7.5,7.5
+Hardware,cisco,1117-4pmwe,2,7.5,7.5
+Hardware,cisco,1117-4pmlteeawe,2,7.5,7.5
+Hardware,cisco,1117-4plteeawe,2,7.5,7.5
+Hardware,cisco,1116-4pwe,2,7.5,7.5
+Hardware,cisco,1116-4plteeawe,2,7.5,7.5
+Hardware,cisco,1113-8pwe,2,7.5,7.5
+Hardware,cisco,1113-8pmwe,2,7.5,7.5
+Hardware,cisco,1113-8plteeawe,2,7.5,7.5
+Sistema Operativo,ibm,storwize_v3700_firmware,2,9.8,9.8
+Aplicación,chyrp,chyrp,2,,
+Aplicación,checkpoint,security_gateway,2,9.8,9.8
+Sistema Operativo,ibm,stn7800_firmware,2,9.8,9.8
+Sistema Operativo,ibm,stn6800_firmware,2,9.8,9.8
+Sistema Operativo,ibm,stn6500_firmware,2,9.8,9.8
+Sistema Operativo,ibm,security_access_manager_for_web_8.0_firmware,2,9.8,9.8
+Sistema Operativo,redhat,enterprise_linux_server_supplementary_eus,2,5.5,5.5
+Sistema Operativo,novell,open_enterprise_server,2,9.8,9.8
+Sistema Operativo,qnap,qts,2,9.8,9.8
+Aplicación,apache,log4j,2,9.97,10.0
+Aplicación,apache,http_server,2,,
+Hardware,cisco,1111-8pwb,2,7.5,7.5
+Hardware,cisco,1111-4pwe,2,7.5,7.5
+Hardware,cisco,1109-4p,2,7.5,7.5
+Hardware,cisco,1109-2p,2,7.5,7.5
+Hardware,cisco,1101-4p,2,7.5,7.5
+Hardware,cisco,1100-8p,2,7.5,7.5
+Sistema Operativo,microsoft,windows_nt,2,7.8,7.8
+Hardware,cisco,catalyst_3750x-12s-s,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-12s-e,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-48t-l,2,8.65,9.8
+Hardware,cisco,catalyst_3750x-48t-e,2,8.65,9.8
+Hardware,cisco,catalyst_3560cpd-8pt-s,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-24p-e,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48t-l,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48t-e,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48pf-s,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48pf-l,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48pf-e,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48p-s,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48p-l,2,8.65,9.8
+Hardware,cisco,catalyst_3560x-48p-e,2,8.65,9.8
+Sistema Operativo,vmware,esx,2,9.8,9.8
+Aplicación,suse,linux_enterprise_module_for_legacy,2,7.55,9.8
+Aplicación,sun,jre,2,9.8,9.8
+Hardware,cisco,1100-4p,2,7.5,7.5
+Hardware,cisco,1111x-8p,2,7.5,7.5
+Aplicación,awstats,awstats,2,,
+Sistema Operativo,suse,linux_enterprise_module_for_containers,1,7.5,7.5
+Sistema Operativo,zyxel,p660hn-t1a_v2_firmware,1,9.8,9.8
+Aplicación,11in1,11in1,1,,
+Aplicación,2kblater,2kb_amazon_affiliates_store,1,,
+Aplicación,4you-studio,com_jphone,1,,
+Sistema Operativo,zyxel,p660hn-t1a_v1_firmware,1,9.8,9.8
+Sistema Operativo,zyxel,emg2926_firmware,1,8.8,8.8
+Sistema Operativo,vmware,esxi,1,7.8,7.8
+Sistema Operativo,ui,airos,1,9.8,9.8
+Sistema Operativo,trendnet,tew-813dru_firmware,1,9.8,9.8
+Sistema Operativo,trendnet,tew-810dr_firmware,1,9.8,9.8
+Aplicación,amtythumb_project,amtythumb,1,,
+Aplicación,angrycreative,bj_lazy_load,1,7.5,7.5
+Aplicación,anshul_sharma,category-grid-view-gallery,1,,
+Aplicación,anti-plagiarism_project,anti-plagiarism,1,,
+Aplicación,apache,archiva,1,9.8,9.8
+Aplicación,apache,aurora,1,9.8,9.8
+Aplicación,apache,axis2,1,,
+Aplicación,apache,cassandra,1,9.8,9.8
+Aplicación,apache,commons_beanutils,1,7.5,7.5
+Aplicación,apache,couchdb,1,,
+Aplicación,activehelper,activehelper_livehelp_live_chat,1,,
+Sistema Operativo,tp-link,tl-wr741nd_firmware,1,7.5,7.5
+Sistema Operativo,tp-link,tl-wr841n_firmware,1,7.5,7.5
+Sistema Operativo,tp-link,tl-wr841nd_firmware,1,7.5,7.5
+Sistema Operativo,siemens,sinumerik_pcu50.5-p_firmware,1,9.8,9.8
+Sistema Operativo,siemens,siplus_net_cp_1543-1_firmware,1,7.5,7.5
+Aplicación,ultimate-weather_project,ultimate-weather,1,6.1,6.1
+Aplicación,sympa,sympa,1,,
+Aplicación,synacor,zimbra_collaboration_suite,1,,
+Aplicación,sysaid,sysaid,1,,
+Aplicación,tagdiv,newspaper,1,9.8,9.8
+Aplicación,tamlyncreative,com_bfsurvey_basic,1,,
+Aplicación,tamlyncreative,com_bfsurvey_pro,1,,
+Aplicación,tamlyncreative,com_bfsurvey_profree,1,,
+Aplicación,tecvoz,cmnc-200_firmware,1,,
+Aplicación,telaen_project,telaen,1,6.1,6.1
+Aplicación,tera_charts_plugin_project,tera-charts,1,,
+Aplicación,ternaria,com_jfeedback,1,,
+Aplicación,ternaria,com_jprojectmanager,1,,
+Aplicación,ternaria,com_preventive,1,,
+Aplicación,ternaria,com_vjdeo,1,,
+Aplicación,thefactory,com_blogfactory,1,,
+Aplicación,websitepanel,websitepanel,1,,
+Aplicación,websupporter,wp_amasin_-_the_amazon_affiliate_shop,1,,
+Aplicación,western_digital,mycloud_nas,1,,
+Aplicación,thefactory,com_gadgetfactory,1,,
+Aplicación,thefactory,com_lovefactory,1,,
+Aplicación,themepunch,slider_revolution,1,,
+Aplicación,thorsten_riess,com_jcollection,1,,
+Aplicación,tidio-form_project,tidio-form,1,,
+Aplicación,tidio-gallery_project,tidio-gallery,1,,
+Aplicación,timely,all-in-one_event_calendar,1,,
+Aplicación,tom_braider,count_per_day,1,,
+Aplicación,tom_m8te_plugin_project,tom-m8te_plugin,1,,
+Aplicación,torproject,tor,1,7.5,7.5
+Aplicación,trendmicro,threat_discovery_appliance,1,,
+Aplicación,trihedral,vtscada,1,7.5,7.5
+Aplicación,ulterius,ulterius_server,1,,
+Aplicación,wpsymposiumpro,wp-symposium,1,6.1,6.1
+Aplicación,wptrafficanalyzer,trafficanalyzer,1,,
+Aplicación,wso2,api_manager,1,4.8,4.8
+Aplicación,wso2,app_manager,1,4.8,4.8
+Aplicación,wso2,application_server,1,4.8,4.8
+Aplicación,umbraco,umbraco,1,,
+Aplicación,usermin,usermin,1,,
+Aplicación,vbulletin,vbulletin,1,,
+Aplicación,visocrea,com_joomla_visites,1,,
+Aplicación,visualshortcodes,ninja,1,6.1,6.1
+Aplicación,vmware,spring_boot,1,,
+Aplicación,web-dorado,spider_calendar,1,,
+Aplicación,webedition,webedition_cms,1,,
+Aplicación,weberr,rwcards,1,,
+Aplicación,webkul,com_ultimateportfolio,1,,
+Aplicación,webmin,webmin,1,,
+Aplicación,wso2,governance_registry,1,4.8,4.8
+Aplicación,wso2,identity_server,1,4.8,4.8
+Aplicación,wso2,iot_server,1,4.8,4.8
+Aplicación,wso2,machine_learner,1,4.8,4.8
+Aplicación,wso2,message_broker,1,4.8,4.8
+Aplicación,wso2,storage_server,1,4.8,4.8
+Aplicación,xibosignage,xibo,1,,
+Aplicación,westerndeal,advanced_dewplayer,1,,
+Aplicación,wordpress,alert_before_you_post,1,,
+Aplicación,wordpress_integrator_project,wordpress_integrator,1,,
+Aplicación,wowjoomla,com_loginbox,1,,
+Aplicación,wp_attachment_export_project,wp_attachment_export,1,7.5,7.5
+Aplicación,wp_content_source_control_project,wp_content_source_control,1,,
+Aplicación,wp_mobile_detector_project,wp_mobile_detector,1,9.8,9.8
+Aplicación,wpmailster,wp_mailster,1,,
+Aplicación,wpsolr,wpsolr-search-engine,1,,
+Aplicación,zend,zend_server,1,,
+Aplicación,zeroshell,zeroshell,1,,
+Aplicación,zimbllc,com_zimbcomment,1,,
+Aplicación,zimbllc,com_zimbcore,1,,
+Aplicación,zip_attachments_project,zip_attachments,1,,
+Aplicación,zitec,emag_marketplace_connector,1,,
+Aplicación,zm-gallery_project,zm-gallery,1,7.2,7.2
+Aplicación,zohocorp,manageengine_firewall_analyzer,1,,
+Aplicación,wso2,business_process_server,1,4.8,4.8
+Aplicación,wso2,business_rules_server,1,4.8,4.8
+Aplicación,wso2,complex_event_processor,1,4.8,4.8
+Aplicación,wso2,dashboard_server,1,4.8,4.8
+Aplicación,wso2,data_analytics_server,1,4.8,4.8
+Aplicación,wso2,data_services_server,1,4.8,4.8
+Aplicación,wso2,enterprise_integrator,1,4.8,4.8
+Aplicación,wso2,enterprise_mobility_manager,1,4.8,4.8
+Hardware,aterm,wf800hp,1,9.8,9.8
+Hardware,aterm,wg1200hp,1,9.8,9.8
+Hardware,aterm,wg1200hp2,1,9.8,9.8
+Hardware,aterm,wg1200hp3,1,9.8,9.8
+Hardware,aterm,wg1200hs,1,9.8,9.8
+Hardware,aterm,wg1200hs2,1,9.8,9.8
+Hardware,aterm,wg1800hp3,1,9.8,9.8
+Hardware,aterm,wg1800hp4,1,9.8,9.8
+Aplicación,xiongmaitech,uc-httpd,1,,
+Aplicación,xmlswf,com_picsell,1,,
+Aplicación,xoops,xoops,1,,
+Aplicación,xstream,xstream,1,9.8,9.8
+Aplicación,yaws,yaws,1,,
+Aplicación,zabbix,zabbix,1,,
+Aplicación,zedna_ebook_download_project,zedna_ebook_download,1,,
+Aplicación,zeit,next.js,1,,
+Hardware,adb,p.dga4001n,1,,
+Hardware,amcrest,ipm-721s,1,,
+Hardware,aterm,w1200ex,1,9.8,9.8
+Aplicación,supachai_teasakul,com_sweetykeeper,1,,
+Aplicación,supervisord,supervisor,1,,
+Aplicación,suse,package_hub,1,8.8,8.8
+Aplicación,swim_team_project,swim_team,1,,
+Aplicación,symantec,message_gateway,1,8.8,8.8
+Aplicación,sitecore,cms,1,,
+Aplicación,skygroup,skysea_client_view,1,9.8,9.8
+Aplicación,skysa,skysa_app_bar_integration_plugin,1,,
+Aplicación,snowsoftware,snow_commander,1,10.0,10.0
+Hardware,aterm,w1200ex-ms,1,9.8,9.8
+Hardware,aterm,w300p,1,9.8,9.8
+Hardware,aterm,w500p,1,9.8,9.8
+Hardware,aterm,wf300hp2,1,9.8,9.8
+Aplicación,sonicwall,email_security,1,10.0,10.0
+Aplicación,soplanning,soplanning,1,,
+Aplicación,sourceafrica_project,sourceafrica,1,,
+Aplicación,spamtitan,webtitan,1,,
+Aplicación,spip,spip,1,,
+Aplicación,splunk,splunk,1,7.5,7.5
+Aplicación,squirrelmail,address_add_plugin,1,,
+Aplicación,siemens,siveillance_control_pro,1,10.0,10.0
+Aplicación,siemens,siveillance_identity,1,10.0,10.0
+Aplicación,siemens,siveillance_vantage,1,10.0,10.0
+Aplicación,siemens,siveillance_viewpoint,1,10.0,10.0
+Hardware,avtech,avn801_dvr,1,9.8,9.8
+Hardware,belkin,n150_f9k1009,1,,
+Hardware,billion,5200w-t,1,9.8,9.8
+Hardware,camtron,cmnc-200,1,,
+Aplicación,zohocorp,webnms_framework,1,,
+Aplicación,siemens,xpedition_enterprise,1,10.0,10.0
+Aplicación,siemens,xpedition_package_integrator,1,10.0,10.0
+Aplicación,simpel-reserveren_project,simpel-reserveren,1,,
+Aplicación,simple-image-manipulator_project,simple-image-manipulator,1,,
+Aplicación,simplerealtytheme,advanced_text_widget_plugin,1,,
+Aplicación,siemens,energyip_prepay,1,10.0,10.0
+Aplicación,siemens,gma-manager,1,10.0,10.0
+Aplicación,siemens,head-end_system_universal_device_integration_system,1,10.0,10.0
+Aplicación,siemens,industrial_edge_management,1,10.0,10.0
+Hardware,aterm,wg1900hp,1,9.8,9.8
+Hardware,aterm,wg1900hp2,1,9.8,9.8
+Hardware,aterm,wr8165n,1,9.8,9.8
+Hardware,audiocodes,420hd_ip_phone,1,,
+Aplicación,snowsoftware,vm_access_proxy,1,10.0,10.0
+Aplicación,software.realtyna,com_joomlaupdater,1,,
+Aplicación,solarwinds,virtualization_manager,1,7.8,7.8
+Aplicación,siemens,opcenter_intelligence,1,10.0,10.0
+Aplicación,siemens,operation_scheduler,1,10.0,10.0
+Aplicación,siemens,sentron_powermanager,1,10.0,10.0
+Aplicación,siemens,siguard_dsa,1,10.0,10.0
+Aplicación,siemens,sipass_integrated,1,10.0,10.0
+Aplicación,siemens,siveillance_command,1,10.0,10.0
+Aplicación,sap,sap_web_application_server,1,,
+Aplicación,schneider-electric,pelco_videoxpert,1,,
+Aplicación,scoreme_project,scoreme,1,5.4,5.4
+Aplicación,siemens,solid_edge_cam_pro,1,10.0,10.0
+Aplicación,siemens,solid_edge_harness_design,1,10.0,10.0
+Aplicación,siemens,spectrum_power_4,1,10.0,10.0
+Aplicación,siemens,spectrum_power_7,1,10.0,10.0
+Aplicación,siemens,teamcenter,1,10.0,10.0
+Aplicación,siemens,vesys,1,10.0,10.0
+Aplicación,siemens,wincc_open_architecture,1,7.5,7.5
+Aplicación,siemens,comos,1,10.0,10.0
+Aplicación,siemens,desigo_cc_advanced_reports,1,10.0,10.0
+Aplicación,siemens,desigo_cc_info_center,1,10.0,10.0
+Aplicación,siemens,e-car_operation_center,1,10.0,10.0
+Aplicación,siemens,elan-8.2,1,7.5,7.5
+Aplicación,siemens,energy_engage,1,10.0,10.0
+Aplicación,siemens,energyip,1,10.0,10.0
+Aplicación,redhat,storage_for_public_cloud,1,9.8,9.8
+Aplicación,redhat,subscription_asset_manager,1,7.5,7.5
+Aplicación,rejetto,http_file_server,1,9.8,9.8
+Aplicación,siemens,industrial_edge_management_hub,1,10.0,10.0
+Aplicación,siemens,logo\!_soft_comfort,1,10.0,10.0
+Aplicación,siemens,mendix,1,10.0,10.0
+Aplicación,siemens,mindsphere,1,10.0,10.0
+Aplicación,siemens,navigator,1,10.0,10.0
+Aplicación,siemens,nx,1,10.0,10.0
+Aplicación,robot-cpa,robotcpa,1,7.5,7.5
+Aplicación,rockettheme,com_rokdownloads,1,,
+Aplicación,roundcube,webmail,1,7.8,7.8
+Aplicación,rubyonrails,web_console,1,,
+Aplicación,s3-video_project,s3-video,1,,
+Aplicación,sap,businessobjects,1,,
+Aplicación,sap,netweaver,1,,
+Aplicación,redhat,cloudforms,1,,
+Aplicación,redhat,enterprise_linux_server_update_services_for_sap_solutions,1,8.1,8.1
+Aplicación,redhat,gluster_storage,1,7.5,7.5
+Hardware,cisco,1240_connected_grid_router,1,7.5,7.5
+Aplicación,se_html5_album_audio_player_project,se_html5_album_audio_player,1,,
+Aplicación,seber,com_sebercart,1,,
+Aplicación,sensiolabs,symfony,1,,
+Aplicación,sgi,propack,1,,
+Aplicación,siemens,capital,1,10.0,10.0
+Hardware,cisco,861_integrated_services_router,1,6.5,6.5
+Hardware,cisco,861w_integrated_services_router,1,6.5,6.5
+Hardware,cisco,866vae_integrated_services_router,1,6.5,6.5
+Hardware,cisco,867_integrated_services_router,1,6.5,6.5
+Hardware,cisco,867vae_integrated_services_router,1,6.5,6.5
+Hardware,cisco,871_integrated_services_router,1,6.5,6.5
+Hardware,cisco,7600_series_route_switch_processor_720,1,8.6,8.6
+Hardware,cisco,7600_series_supervisor_engine_32,1,8.6,8.6
+Hardware,cisco,7600_series_supervisor_engine_720,1,8.6,8.6
+Hardware,cisco,7604,1,8.8,8.8
+Hardware,cisco,7606-s,1,8.8,8.8
+Hardware,cisco,7609-s,1,8.8,8.8
+Hardware,cisco,7613-s,1,8.8,8.8
+Aplicación,roberta_bramski,uploader,1,,
+Aplicación,roberto_aloi,com_joomlaflickr,1,,
+Aplicación,roberto_aloi,com_joomlapicasa2,1,,
+Hardware,cisco,881w_integrated_services_router,1,6.5,6.5
+Hardware,cisco,886_integrated_services_router,1,6.5,6.5
+Aplicación,redhat,icedtea6,1,9.8,9.8
+Aplicación,redhat,jboss_middleware_text-only_advisories,1,9.8,9.8
+Aplicación,redhat,openshift,1,7.5,7.5
+Aplicación,redhat,openshift_container_platform,1,9.8,9.8
+Aplicación,redhat,satellite_with_embedded_oracle,1,9.8,9.8
+Aplicación,redhat,software_collections,1,7.5,7.5
+Aplicación,progress,sitefinity,1,9.8,9.8
+Aplicación,progress,sitefinity_cms,1,,
+Aplicación,progress,telerik_reporting,1,,
+Aplicación,progress,telerik_ui_for_asp.net_ajax,1,9.8,9.8
+Hardware,cisco,829_industrial_integrated_services_router,1,6.5,6.5
+Hardware,cisco,829_industrial_integrated_services_routers,1,6.5,6.5
+Hardware,cisco,829_integrated_services_router,1,6.5,6.5
+Hardware,cisco,860vae-w_integrated_services_router,1,6.5,6.5
+Hardware,cisco,887v_integrated_services_router,1,6.5,6.5
+Hardware,cisco,887va-cube_integrated_services_router,1,6.5,6.5
+Hardware,cisco,887va-w_integrated_services_router,1,6.5,6.5
+Hardware,cisco,887va_integrated_services_router,1,6.5,6.5
+Hardware,cisco,887vag_3g_integrated_services_router,1,6.5,6.5
+Hardware,cisco,887vam-w_integrated_services_router,1,6.5,6.5
+Hardware,cisco,887vamg_3g_integrated_services_router,1,6.5,6.5
+Hardware,cisco,888-cube_integrated_services_router,1,6.5,6.5
+Hardware,cisco,888_integrated_services_router,1,6.5,6.5
+Hardware,cisco,888e-cube_integrated_services_router,1,6.5,6.5
+Hardware,cisco,888e_integrated_services_router,1,6.5,6.5
+Hardware,cisco,880-voice_integrated_services_router,1,6.5,6.5
+Hardware,cisco,880_3g_integrated_services_router,1,6.5,6.5
+Hardware,cisco,881-cube_integrated_services_router,1,6.5,6.5
+Hardware,cisco,881_3g_integrated_services_router,1,6.5,6.5
+Hardware,cisco,881_integrated_services_router,1,6.5,6.5
+Aplicación,pureftpd,pure-ftpd,1,,
+Aplicación,pureftpd,pureftpd,1,,
+Aplicación,rainbow_portal,rainbow.zen,1,,
+Aplicación,rainbow_portal,rainbow_with_the_zen,1,,
+Aplicación,raygun,raygun4wp,1,,
+Aplicación,realtek,realtek_sdk,1,9.8,9.8
+Aplicación,realtyna,com_realtyna,1,,
+Aplicación,recly,com_smartsite,1,,
+Aplicación,redcomponent,com_redshop,1,,
+Aplicación,redcomponent,com_redtwitter,1,,
+Aplicación,redhat,application_stack,1,9.8,9.8
+Aplicación,php,php,1,9.8,9.8
+Aplicación,phpcollab,phpcollab,1,,
+Aplicación,phpldapadmin_project,phpldapadmin,1,6.1,6.1
+Aplicación,phpmailer_project,phpmailer,1,9.8,9.8
+Hardware,cisco,887_integrated_services_router,1,6.5,6.5
+Aplicación,ppfeufer,2-click-social-media-buttons,1,,
+Aplicación,prestashop,prestashop,1,,
+Aplicación,primetek,primefaces,1,9.8,9.8
+Aplicación,osclass,osclass,1,,
+Aplicación,page-layout-builder_project,page-layout-builder,1,,
+Aplicación,parallels,h-sphere,1,,
+Aplicación,parsi-font_project,parsi-font,1,,
+Hardware,cisco,891w_integrated_services_router,1,6.5,6.5
+Hardware,cisco,892_integrated_services_router,1,6.5,6.5
+Hardware,cisco,892f-cube_integrated_services_router,1,6.5,6.5
+Hardware,cisco,892w_integrated_services_router,1,6.5,6.5
+Hardware,cisco,886va-cube_integrated_services_router,1,6.5,6.5
+Hardware,cisco,886va-w_integrated_services_router,1,6.5,6.5
+Hardware,cisco,886va_integrated_services_router,1,6.5,6.5
+Hardware,cisco,886vag_3g_integrated_services_router,1,6.5,6.5
+Aplicación,pucit.edu,com_onlineexam,1,,
+Aplicación,oracle,storagetek_tape_analytics_sw_tool,1,9.8,9.8
+Aplicación,oracle,tape_library_acsls,1,9.8,9.8
+Hardware,cisco,asr_1000_,1,6.5,6.5
+Hardware,cisco,asr_1000_series_route_processor_\(rp2\),1,8.6,8.6
+Hardware,cisco,asr_1000_series_route_processor_\(rp3\),1,8.6,8.6
+Hardware,cisco,888eg_3g_integrated_services_router,1,6.5,6.5
+Hardware,cisco,888w_integrated_services_router,1,6.5,6.5
+Hardware,cisco,891-24x_integrated_services_router,1,6.5,6.5
+Hardware,cisco,891_integrated_services_router,1,6.5,6.5
+Aplicación,phpmyadmin,phpmyadmin,1,9.8,9.8
+Aplicación,phpunit_project,phpunit,1,9.8,9.8
+Aplicación,pippo,pippo,1,,
+Aplicación,pivotal,spring_security_oauth,1,,
+Aplicación,pivotal_software,spring_data_rest,1,,
+Aplicación,podcast_channels_project,podcast_channels,1,6.1,6.1
+Aplicación,pondol-formmail_project,pondol-formmail,1,,
+Aplicación,oracle,retail_insights,1,8.1,8.1
+Aplicación,oracle,retail_integration_bus,1,9.8,9.8
+Aplicación,oracle,retail_invoice_matching,1,8.1,8.1
+Aplicación,paysyspro,com_wmi,1,,
+Aplicación,percha,com_perchacategoriestree,1,,
+Aplicación,percha,com_perchadownloadsattach,1,,
+Aplicación,percha,com_perchafieldsattach,1,,
+Aplicación,percha,com_perchagallery,1,,
+Aplicación,percha,com_perchaimageattach,1,,
+Aplicación,percussion,rhythmyx,1,10.0,10.0
+Aplicación,peter_hocherl,com_travelbook,1,,
+Aplicación,peter_hocherl,com_tweetla,1,,
+Aplicación,phoenixframework,phoenix,1,,
+Aplicación,photoxhibit_project,photoxhibit,1,,
+Aplicación,oracle,siebel_ui_framework,1,9.8,9.8
+Aplicación,oracle,soa_suite,1,9.8,9.8
+Aplicación,oracle,retail_xstore_point_of_service,1,8.1,8.1
+Aplicación,oracle,siebel_apps_-_e-billing,1,9.8,9.8
+Aplicación,oracle,siebel_e-billing,1,,
+Aplicación,oracle,mysql,1,,
+Aplicación,oracle,openjdk,1,5.3,5.3
+Aplicación,oracle,timesten_in-memory_database,1,9.8,9.8
+Aplicación,oracle,tuxedo_system_and_applications_monitor,1,8.1,8.1
+Aplicación,oracle,utilities_advanced_spatial_and_operational_analytics,1,9.8,9.8
+Aplicación,oracle,utilities_work_and_asset_management,1,9.8,9.8
+Aplicación,oracle,virtual_desktop_infrastructure,1,9.8,9.8
+Aplicación,oracle,virtualbox,1,8.8,8.8
+Aplicación,oracle,webcenter_content,1,,
+Aplicación,oracle,webcenter_sites,1,8.1,8.1
+Aplicación,oracle,workload_manager,1,8.1,8.1
+Aplicación,orchardproject,orchard,1,,
+Aplicación,oracle,retail_extract_transform_and_load,1,9.8,9.8
+Aplicación,oracle,retail_central_office,1,8.1,8.1
+Aplicación,oracle,retail_clearance_optimization_engine,1,9.8,9.8
+Aplicación,oracle,retail_eftlink,1,8.1,8.1
+Aplicación,oracle,identity_management_suite,1,9.8,9.8
+Aplicación,oracle,identity_manager_connector,1,9.8,9.8
+Aplicación,oracle,in-memory_performance-driven_planning,1,9.8,9.8
+Hardware,cisco,asr_1002_fixed_router,1,7.5,7.5
+Aplicación,oracle,retail_open_commerce_platform,1,9.8,9.8
+Aplicación,oracle,retail_order_broker,1,8.1,8.1
+Aplicación,oracle,retail_order_management_system,1,8.1,8.1
+Aplicación,oracle,retail_point-of-service,1,8.1,8.1
+Aplicación,oracle,retail_predictive_application_server,1,9.8,9.8
+Aplicación,oracle,retail_price_management,1,8.1,8.1
+Aplicación,oracle,retail_returns_management,1,8.1,8.1
+Aplicación,oracle,retail_service_backbone,1,9.8,9.8
+Aplicación,oracle,retail_store_inventory_management,1,8.1,8.1
+Aplicación,oracle,financial_services_loan_loss_forecasting_and_provisioning,1,9.8,9.8
+Hardware,cisco,asr_920-24sz-m_router,1,9.8,9.8
+Hardware,cisco,asr_920-24tz-m_router,1,9.8,9.8
+Hardware,cisco,asr_920-4sz-a_router,1,9.8,9.8
+Hardware,cisco,asr_920-4sz-d_router,1,9.8,9.8
+Hardware,cisco,asr_920-10sz-pd_router,1,9.8,9.8
+Hardware,cisco,asr_920-12cz-a_router,1,9.8,9.8
+Hardware,cisco,asr_920-12cz-d_router,1,9.8,9.8
+Hardware,cisco,asr_920-12sz-im_router,1,9.8,9.8
+Aplicación,oracle,peoplesoft_enterprise_fin_install,1,9.8,9.8
+Aplicación,oracle,policy_automation,1,9.8,9.8
+Aplicación,oracle,policy_automation_connector_for_siebel,1,9.8,9.8
+Aplicación,oracle,policy_automation_for_mobile_devices,1,9.8,9.8
+Aplicación,oracle,primavera_gateway,1,9.8,9.8
+Aplicación,oracle,rapid_planning,1,9.8,9.8
+Aplicación,oracle,retail_back_office,1,8.1,8.1
+Hardware,cisco,catalyst_2918-24tt-c,1,9.8,9.8
+Hardware,cisco,catalyst_2918-48tc-c,1,9.8,9.8
+Hardware,cisco,asr_920-24sz-im_router,1,9.8,9.8
+Aplicación,oracle,insurance_calculation_engine,1,9.8,9.8
+Aplicación,oracle,insurance_policy_administration,1,9.8,9.8
+Aplicación,oracle,insurance_rules_palette,1,9.8,9.8
+Aplicación,oracle,integrated_lights_out_manager,1,8.1,8.1
+Aplicación,oracle,jd_edwards_enterpriseone_tools,1,9.8,9.8
+Aplicación,oracle,jdeveloper,1,9.8,9.8
+Aplicación,oracle,jrockit,1,9.8,9.8
+Aplicación,oracle,management_pack,1,8.1,8.1
+Aplicación,oracle,micros_lucas,1,8.1,8.1
+Aplicación,oracle,micros_relate_crm_software,1,9.8,9.8
+Aplicación,oracle,financial_services_behavior_detection_platform,1,9.8,9.8
+Aplicación,oracle,financial_services_hedge_management_and_ifrs_valuations,1,9.8,9.8
+Aplicación,oracle,financial_services_lending_and_leasing,1,9.8,9.8
+Hardware,cisco,catalyst_2960-24pc-s,1,9.8,9.8
+Hardware,cisco,catalyst_2960-24tc-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960-24tc-s,1,9.8,9.8
+Hardware,cisco,catalyst_2960-24tt-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960-48pst-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960-48pst-s,1,9.8,9.8
+Hardware,cisco,catalyst_2960-48tc-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960-48tc-s,1,9.8,9.8
+Hardware,cisco,catalyst_2960-48tt-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960-48tt-s,1,9.8,9.8
+Hardware,cisco,c6800-16p10g,1,6.5,6.5
+Hardware,cisco,c6800-16p10g-xl,1,6.5,6.5
+Hardware,cisco,catalyst_2350-48td-s,1,9.8,9.8
+Hardware,cisco,catalyst_2350-48td-sd,1,9.8,9.8
+Hardware,cisco,catalyst_2360-48td-s,1,9.8,9.8
+Hardware,cisco,catalyst_2918-24tc-c,1,9.8,9.8
+Hardware,cisco,catalyst_2960-24lc-s,1,9.8,9.8
+Aplicación,oracle,financial_services_profitability_management,1,9.8,9.8
+Aplicación,oracle,financial_services_regulatory_reporting_with_agilereporter,1,9.8,9.8
+Aplicación,oracle,flexcube_investor_servicing,1,9.8,9.8
+Aplicación,oracle,fmw_platform,1,8.1,8.1
+Aplicación,oracle,fusion_middleware_mapviewer,1,9.8,9.8
+Aplicación,oracle,goldengate,1,9.8,9.8
+Aplicación,oracle,goldengate_application_adapters,1,9.8,9.8
+Aplicación,oracle,health_sciences_empirica_inspections,1,8.1,8.1
+Aplicación,oracle,identity_analytics,1,9.8,9.8
+Aplicación,oracle,communications_messaging_server,1,9.8,9.8
+Aplicación,oracle,communications_network_integrity,1,9.8,9.8
+Aplicación,oracle,communications_online_mediation_controller,1,9.8,9.8
+Aplicación,oracle,communications_pricing_design_center,1,9.8,9.8
+Hardware,cisco,catalyst_2960-24lt-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960-24pc-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960-8tc-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960-8tc-s,1,9.8,9.8
+Aplicación,oracle,communications_service_broker,1,9.8,9.8
+Aplicación,oracle,communications_webrtc_session_controller,1,9.8,9.8
+Aplicación,oracle,configuration_manager,1,9.8,9.8
+Aplicación,oracle,endeca_information_discovery_integrator,1,8.1,8.1
+Aplicación,oracle,enterprise_data_quality,1,9.8,9.8
+Aplicación,oracle,enterprise_manager_base_platform,1,9.8,9.8
+Aplicación,oracle,enterprise_manager_for_fusion_middleware,1,9.8,9.8
+Aplicación,oracle,enterprise_manager_for_oracle_database,1,9.8,9.8
+Aplicación,oracle,enterprise_manager_for_peoplesoft,1,9.8,9.8
+Aplicación,openvpn,openvpn_access_server,1,,
+Aplicación,oracle,agile_engineering_data_management,1,9.8,9.8
+Hardware,cisco,catalyst_2918-48tt-c,1,9.8,9.8
+Hardware,cisco,catalyst_2928-24tc-c,1,9.8,9.8
+Hardware,cisco,catalyst_2960-24-s,1,9.8,9.8
+Aplicación,oracle,autovue_vuelink_integration,1,9.8,9.8
+Aplicación,oracle,banking_platform,1,9.8,9.8
+Aplicación,oracle,bi_publisher,1,9.8,9.8
+Aplicación,oracle,communications_application_session_controller,1,9.8,9.8
+Aplicación,oracle,communications_cloud_native_core_automated_test_suite,1,9.8,9.8
+Aplicación,oracle,communications_converged_application_server_-_service_controller,1,9.8,9.8
+Aplicación,oracle,communications_diameter_signaling_router,1,9.8,9.8
+Aplicación,netgear,readynas_surveillance,1,,
+Aplicación,new-year-firework_project,new-year-firework,1,,
+Hardware,cisco,catalyst_2960cx-8tc-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960g-24tc-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960g-48tc-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960g-8tc-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960l-24pq-ll,1,6.3,6.3
+Hardware,cisco,catalyst_2960l-24tq-ll,1,6.3,6.3
+Hardware,cisco,catalyst_2960l-48pq-ll,1,6.3,6.3
+Aplicación,novius-os,novius_os,1,,
+Aplicación,omilenitsolutions,com_omphotogallery,1,,
+Aplicación,openbb,openbb,1,,
+Aplicación,openemr,openemr,1,,
+Aplicación,openssl,openssl,1,7.5,7.5
+Aplicación,opensymphony,xwork,1,,
+Aplicación,opentext,documentum_administrator,1,,
+Aplicación,opentext,documentum_webtop,1,,
+Aplicación,netapp,oncommand_unified_manager_for_clustered_data_ontap,1,7.0,7.0
+Aplicación,netapp,ontap_select_deploy_administration_utility,1,7.0,7.0
+Aplicación,netapp,ontap_tools,1,10.0,10.0
+Hardware,cisco,catalyst_2960pd-8tt-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960cx-8pc-l,1,9.8,9.8
+Aplicación,oracle,api_gateway,1,9.8,9.8
+Aplicación,oracle,application_testing_suite,1,9.8,9.8
+Aplicación,oracle,applications_framework,1,,
+Aplicación,netapp,santricity_cloud_connector,1,,
+Aplicación,netapp,service_level_manager,1,9.8,9.8
+Aplicación,netapp,snap_creator_framework,1,9.8,9.8
+Aplicación,netapp,snapprotect,1,7.0,7.0
+Aplicación,netapp,solidfire,1,7.0,7.0
+Aplicación,netapp,solidfire_\&_hci_storage_node,1,10.0,10.0
+Aplicación,netapp,solidfire_enterprise_sds,1,10.0,10.0
+Aplicación,netapp,vasa_provider_for_clustered_data_ontap,1,9.8,9.8
+Aplicación,netapp,virtual_storage_console,1,9.8,9.8
+Aplicación,netapp,cloud_backup,1,7.0,7.0
+Aplicación,netapp,cloud_insights,1,10.0,10.0
+Aplicación,netapp,cloud_manager,1,10.0,10.0
+Aplicación,netapp,cloud_secure_agent,1,10.0,10.0
+Hardware,cisco,catalyst_2960x-24psq-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960x-24psq-l_cool,1,7.5,7.5
+Hardware,cisco,catalyst_2960l-48tq-ll,1,6.3,6.3
+Hardware,cisco,catalyst_3550_12g,1,9.8,9.8
+Hardware,cisco,catalyst_3550_12t,1,9.8,9.8
+Hardware,cisco,catalyst_3550_24_dc_smi,1,9.8,9.8
+Aplicación,netapp,e-series_santricity_management_plug-ins,1,9.8,9.8
+Aplicación,netapp,e-series_santricity_storage_manager,1,9.8,9.8
+Aplicación,netapp,e-series_santricity_web_services,1,9.8,9.8
+Aplicación,netapp,hci_storage_nodes,1,7.0,7.0
+Aplicación,netapp,oncommand_api_services,1,9.8,9.8
+Aplicación,netapp,oncommand_cloud_manager,1,9.8,9.8
+Aplicación,netapp,oncommand_report,1,9.8,9.8
+Aplicación,mozilla,seamonkey,1,9.8,9.8
+Hardware,cisco,catalyst_2960xr-24pd-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960xr-24ps-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960xr-24td-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960xr-24ts-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960xr-48fpd-l,1,9.8,9.8
+Aplicación,mtheme-unus_project,mtheme-unus,1,7.5,7.5
+Aplicación,multi-router_looking_glass_project,multi-router_looking_glass,1,9.8,9.8
+Aplicación,myblog,com_myblog,1,,
+Aplicación,mypixs_project,mypixs,1,,
+Aplicación,mysqldumper,mysqldumper,1,,
+Aplicación,najeebmedia,frontend_file_manager,1,9.8,9.8
+Aplicación,najeebmedia,post_front-end_form,1,9.8,9.8
+Aplicación,ncomputing,vspace_pro,1,,
+Aplicación,netapp,brocade_san_navigator,1,10.0,10.0
+Aplicación,microsoft,works_suite,1,8.8,8.8
+Hardware,cisco,catalyst_2960xr-48lps-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960xr-48td-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960xr-48ts-l,1,9.8,9.8
+Hardware,cisco,catalyst_2970g-24t,1,9.8,9.8
+Hardware,cisco,catalyst_2970g-24ts,1,9.8,9.8
+Hardware,cisco,catalyst_2975,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-24td-e,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-24td-s,1,9.8,9.8
+Hardware,cisco,catalyst_3550_24_emi,1,9.8,9.8
+Hardware,cisco,catalyst_3550_24_fx_smi,1,9.8,9.8
+Hardware,cisco,catalyst_3550_24_pwr,1,9.8,9.8
+Hardware,cisco,catalyst_3550_24_smi,1,9.8,9.8
+Hardware,cisco,catalyst_3550_48_emi,1,9.8,9.8
+Hardware,cisco,catalyst_3550_48_smi,1,9.8,9.8
+Hardware,cisco,catalyst_3560-12pc-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560-24ps,1,9.8,9.8
+Hardware,cisco,catalyst_3560-24ts,1,9.8,9.8
+Hardware,cisco,catalyst_3560-48ps,1,9.8,9.8
+Hardware,cisco,catalyst_3560-48ts,1,9.8,9.8
+Hardware,cisco,catalyst_3560-8pc,1,9.8,9.8
+Hardware,cisco,catalyst_2960xr-48fps-l,1,9.8,9.8
+Hardware,cisco,catalyst_2960xr-48lpd-l,1,9.8,9.8
+Hardware,cisco,catalyst_3560v2-24ts,1,9.8,9.8
+Hardware,cisco,catalyst_3560v2-48ps,1,9.8,9.8
+Hardware,cisco,catalyst_3560v2-48ts,1,9.8,9.8
+Hardware,cisco,catalyst_3560cx-12pc-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560cx-12pd-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560cx-12tc-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560cx-8pc-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560cx-8pt-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560cx-8tc-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560cx-8xpd-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-12d-e,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-12d-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-12sd-e,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-12sd-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-24pd-e,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-24pd-s,1,9.8,9.8
+Aplicación,mms.pipp,com_mmsblog,1,,
+Aplicación,mnt-tech,wp-facethumb,1,,
+Aplicación,modx,modx_revolution,1,,
+Aplicación,montala,resourcespace,1,,
+Aplicación,moto-treks,com_mtfireeagle,1,,
+Aplicación,movies_project,movies,1,6.1,6.1
+Aplicación,microsoft,sharepoint_enterprise_server,1,7.8,7.8
+Aplicación,microsoft,sql_server,1,8.8,8.8
+Hardware,cisco,catalyst_3560e-48td-e,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-48td-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560g-24ps,1,9.8,9.8
+Hardware,cisco,catalyst_3560g-24ts,1,9.8,9.8
+Hardware,cisco,catalyst_3560g-48ps,1,9.8,9.8
+Hardware,cisco,catalyst_3560g-48ts,1,9.8,9.8
+Hardware,cisco,catalyst_3560v2-24dc,1,9.8,9.8
+Hardware,cisco,catalyst_3560v2-24ps,1,9.8,9.8
+Aplicación,microsoft,visual_basic_for_applications,1,7.8,7.8
+Aplicación,microsoft,visual_basic_for_applications_sdk,1,7.8,7.8
+Aplicación,microsoft,windows_defender,1,7.8,7.8
+Aplicación,microsoft,office_online_server,1,7.8,7.8
+Aplicación,microsoft,office_powerpoint,1,8.8,8.8
+Aplicación,microsoft,office_sharepoint_server,1,7.8,7.8
+Hardware,cisco,catalyst_3560e-48pd-e,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-48pd-ef,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-48pd-s,1,9.8,9.8
+Hardware,cisco,catalyst_3560e-48pd-sf,1,9.8,9.8
+Aplicación,mikejolley,download_monitor,1,,
+Aplicación,mikoviny,wp_custom_pages,1,,
+Aplicación,miniwork,com_canteen,1,,
+Aplicación,mitel,micollab,1,7.5,7.5
+Aplicación,mitel,mivoice,1,7.5,7.5
+Aplicación,mj2,majordomo_2,1,,
+Aplicación,microsoft,biztalk_server,1,8.8,8.8
+Aplicación,microsoft,onenote,1,8.8,8.8
+Aplicación,microsoft,powerpoint_viewer,1,7.8,7.8
+Aplicación,microsoft,project,1,8.8,8.8
+Aplicación,microsoft,publisher,1,8.8,8.8
+Aplicación,microsoft,security_essentials,1,7.8,7.8
+Aplicación,microsoft,groove_server,1,8.8,8.8
+Aplicación,microsoft,host_integration_server,1,8.8,8.8
+Aplicación,microsoft,infopath,1,8.8,8.8
+Aplicación,microsoft,interix,1,7.8,7.8
+Aplicación,microsoft,sql_server_2000,1,8.8,8.8
+Aplicación,microsoft,sql_server_2005,1,8.8,8.8
+Aplicación,microsoft,sql_server_2008,1,8.8,8.8
+Aplicación,microsoft,system_center_endpoint_protection,1,7.8,7.8
+Aplicación,microsoft,vbscript,1,7.5,7.5
+Aplicación,microsoft,visio_viewer,1,7.8,7.8
+Aplicación,microsoft,forefront_endpoint_protection,1,7.8,7.8
+Aplicación,microsoft,forefront_security,1,7.8,7.8
+Aplicación,microsoft,forefront_threat_management_gateway,1,9.8,9.8
+Aplicación,microsoft,frontpage,1,8.8,8.8
+Aplicación,microsoft,groove,1,8.8,8.8
+Aplicación,m0r0n,com_mscomment,1,,
+Aplicación,mail-masta_project,mail-masta,1,7.5,7.5
+Aplicación,mainwp,mainwp_dashboard,1,7.2,7.2
+Aplicación,microsoft,internet_information_server,1,,
+Aplicación,microsoft,internet_information_services,1,9.8,9.8
+Aplicación,microsoft,intune_endpoint_protection,1,7.8,7.8
+Aplicación,microsoft,jscript,1,7.5,7.5
+Aplicación,microsoft,live_meeting,1,7.8,7.8
+Aplicación,microsoft,malware_protection_engine,1,7.8,7.8
+Aplicación,microsoft,office_2007_ime,1,7.8,7.8
+Aplicación,microsoft,access,1,8.8,8.8
+Aplicación,mantisbt,mantisbt,1,8.8,8.8
+Aplicación,mapplic,mapplic,1,8.3,8.3
+Aplicación,mariadb,mariadb,1,,
+Aplicación,masselink,com_picasa2gallery,1,,
+Aplicación,matamko,com_matamko,1,,
+Aplicación,mcafee,network_data_loss_prevention,1,,
+Aplicación,mdc_youtube_downloader_project,mdc_youtube_downloader,1,,
+Aplicación,memcached,memcached,1,,
+Aplicación,mf_gig_calendar_project,mf_gig_calendar,1,,
+Aplicación,kentico,kentico_cms,1,,
+Aplicación,kentico,xperience,1,,
+Aplicación,kmc_information_systems,caseaware,1,,
+Aplicación,kodebyraaet,safe_editor,1,6.1,6.1
+Aplicación,microsoft,commerce_server_2009,1,8.8,8.8
+Aplicación,microsoft,endpoint_protection,1,7.8,7.8
+Aplicación,microsoft,expression_web,1,8.8,8.8
+Aplicación,la-souris-verte,com_svmap,1,,
+Aplicación,laravel,laravel,1,,
+Aplicación,last.fm_rotation_plugin_project,lastfm-rotation_plugin,1,,
+Aplicación,laurent_destailleur,awstats,1,,
+Aplicación,levelfourdevelopment,wp-easycart,1,,
+Aplicación,lighttpd,lighttpd,1,9.8,9.8
+Aplicación,lispeltuut,com_archeryscores,1,,
+Aplicación,lotuscms,fraise,1,,
+Aplicación,luracast,restler,1,7.5,7.5
+Aplicación,joomlamo,com_weberpcustomer,1,,
+Aplicación,joomlanook,com_hsconfig,1,,
+Aplicación,joomlapraise,com_projectfork,1,,
+Aplicación,joomlart,com_jashowcase,1,,
+Aplicación,manageengine,firewall_analyzer,1,,
+Aplicación,manageengine,servicedesk,1,,
+Aplicación,mangoswebv4_project,mangoswebv4,1,6.1,6.1
+Hardware,cisco,catalyst_3750e-48pd-e,1,9.8,9.8
+Hardware,cisco,catalyst_3750e-48pd-ef,1,9.8,9.8
+Hardware,cisco,catalyst_3750e-48pd-s,1,9.8,9.8
+Hardware,cisco,catalyst_3750e-48pd-sf,1,9.8,9.8
+Hardware,cisco,catalyst_3750e-48td-e,1,9.8,9.8
+Hardware,cisco,catalyst_3750e-48td-s,1,9.8,9.8
+Hardware,cisco,catalyst_3750g-12s,1,9.8,9.8
+Hardware,cisco,catalyst_3750g-12s-sd,1,9.8,9.8
+Hardware,cisco,catalyst_3750g-16td,1,9.8,9.8
+Hardware,cisco,catalyst_3750-24fs,1,9.8,9.8
+Hardware,cisco,catalyst_3750-24ps,1,9.8,9.8
+Hardware,cisco,catalyst_3750-24ts,1,9.8,9.8
+Hardware,cisco,catalyst_3750-48ps,1,9.8,9.8
+Aplicación,kodi,kodi,1,,
+Aplicación,koha,koha,1,,
+Aplicación,kybernetika,phpshowtime,1,,
+Aplicación,jooforge,com_jukebox,1,,
+Aplicación,joomla,com_imagebrowser,1,,
+Hardware,cisco,catalyst_3750g-48ps,1,9.8,9.8
+Hardware,cisco,catalyst_3750g-48ts,1,9.8,9.8
+Hardware,cisco,catalyst_3750v2-24fs,1,9.8,9.8
+Hardware,cisco,catalyst_3750v2-24ps,1,9.8,9.8
+Hardware,cisco,catalyst_3750v2-24ts,1,9.8,9.8
+Hardware,cisco,catalyst_3750v2-48ps,1,9.8,9.8
+Hardware,cisco,catalyst_3750v2-48ts,1,9.8,9.8
+Hardware,cisco,catalyst_3750-48ts,1,9.8,9.8
+Hardware,cisco,catalyst_3750_metro_24-ac,1,9.8,9.8
+Hardware,cisco,catalyst_3750_metro_24-dc,1,9.8,9.8
+Hardware,cisco,catalyst_3750e-24pd-e,1,9.8,9.8
+Hardware,cisco,catalyst_3750e-24pd-s,1,9.8,9.8
+Hardware,cisco,catalyst_3750e-24td-e,1,9.8,9.8
+Hardware,cisco,catalyst_3750e-24td-s,1,9.8,9.8
+Hardware,cisco,catalyst_3750g-24t,1,9.8,9.8
+Hardware,cisco,catalyst_3750g-24ts,1,9.8,9.8
+Hardware,cisco,catalyst_3750g-24ts-1u,1,9.8,9.8
+Aplicación,joomlart,com_javoice,1,,
+Aplicación,joomlaserviceprovider,wsecure,1,8.8,8.8
+Aplicación,joomlashowroom,pro_desk_support_center,1,,
+Aplicación,joomlaworks,jw_allvideos,1,,
+Aplicación,jquery_file_upload_project,jquery_file_upload,1,9.8,9.8
+Aplicación,jqueryfiletree_project,jqueryfiletree,1,7.5,7.5
+Aplicación,jvideodirect,com_jvideodirect,1,,
+Aplicación,jvitals,com_agora,1,,
+Aplicación,kanich,com_jotloader,1,,
+Aplicación,kaseya,virtual_system_administrator,1,,
+Aplicación,katz,infusionsoft_gravity_forms,1,6.1,6.1
+Aplicación,kazulah,com_horoscope,1,,
+Aplicación,joobi,com_jstore,1,,
+Aplicación,joomla,rsfiles,1,,
+Aplicación,joomla-research,com_jresearch,1,,
+Aplicación,joomla.batjo,com_shoutbox,1,,
+Aplicación,joomlabiblestudy,com_biblestudy,1,,
+Aplicación,joomlacomponent.inetlanka,com_drawroot,1,,
+Aplicación,joomlacomponent.inetlanka,com_multimap,1,,
+Aplicación,joomlacomponent.inetlanka,com_multiroot,1,,
+Aplicación,joomlamart,com_jacomment,1,,
+Aplicación,joomlamo,com_cartweberp,1,,
+Aplicación,joomlamo,com_jinventory,1,,
+Aplicación,joomlamo,com_userstatus,1,,
+Aplicación,intel,ethernet_diagnostics_driver_iqvw64.sys,1,7.8,7.8
+Aplicación,intel,genomics_kernel_library,1,10.0,10.0
+Aplicación,intel,oneapi_sample_browser,1,10.0,10.0
+Aplicación,intel,secure_device_onboard,1,10.0,10.0
+Hardware,cisco,catalyst_3750g-24ps,1,9.8,9.8
+Aplicación,intel,ethernet_diagnostics_driver_iqvw32.sys,1,7.8,7.8
+Aplicación,intel,system_studio,1,10.0,10.0
+Aplicación,intelliants,subrion_cms,1,,
+Aplicación,ipconfigure,orchid_core_vms,1,,
+Aplicación,iwork,webglimpse,1,,
+Aplicación,janguo,com_jimtawl,1,,
+Aplicación,je_form_creator,je_form_creator,1,,
+Aplicación,jenkins,github,1,,
+Aplicación,joelrowley,com_simpledownload,1,,
+Aplicación,johnmccollum,com_advertising,1,,
+Aplicación,jolokia,jolokia,1,,
+Aplicación,jolokia,webarchive_agent,1,,
+Aplicación,icewarp,mail_server,1,,
+Aplicación,icewarp,server,1,,
+Aplicación,ideal,com_moofaq,1,,
+Aplicación,if_surfalert_project,if_surfalert,1,,
+Aplicación,ibm,watson_explorer_annotation_administration_console,1,9.8,9.8
+Aplicación,ibm,websphere_application_server,1,9.8,9.8
+Aplicación,hp,insight_control,1,8.8,8.8
+Aplicación,hp,insight_control_server_provisioning,1,8.8,8.8
+Aplicación,hp,insight_orchestration,1,9.8,9.8
+Aplicación,hp,matrix_operating_environment,1,8.8,8.8
+Aplicación,ijobid,com_cmimarketplace,1,,
+Aplicación,ijoomla,com_news_portal,1,,
+Aplicación,import_legacy_media_project,import_legacy_media,1,6.1,6.1
+Aplicación,inboundnow,call_to_action,1,,
+Aplicación,indexisto_project,indexisto,1,,
+Aplicación,indusoft,web_studio,1,9.8,9.8
+Aplicación,inertialfate,com_if_nexus,1,,
+Aplicación,infusionsoft_project,infusionsoft,1,,
+Aplicación,intel,computer_vision_annotation_tool,1,10.0,10.0
+Aplicación,intel,datacenter_manager,1,10.0,10.0
+Aplicación,hp,openview_network_node_manager,1,9.8,9.8
+Aplicación,hp,procurve_manager,1,9.8,9.8
+Aplicación,hp,server_automation,1,9.8,9.8
+Aplicación,hp,version_control_agent,1,9.8,9.8
+Aplicación,hp,virtual_connect_enterprise_manager,1,9.8,9.8
+Aplicación,htmlcoderhelper,com_graphics,1,,
+Aplicación,ibm,infosphere_biginsights,1,6.5,6.5
+Aplicación,ibm,lotus_domino,1,,
+Aplicación,gohigheris,com_jwhmcs,1,,
+Aplicación,google_adsense_project,google_adsense,1,,
+Aplicación,graphite_project,graphite,1,7.5,7.5
+Aplicación,ibm,sterling_b2b_integrator,1,9.8,9.8
+Aplicación,ibm,sterling_integrator,1,9.8,9.8
+Aplicación,ibm,tivoli_common_reporting,1,9.8,9.8
+Aplicación,ibm,watson_content_analytics,1,9.8,9.8
+Aplicación,ibm,watson_explorer_analytical_components,1,9.8,9.8
+Hardware,cisco,catalyst_4500_supervisor_ii-plus-10ge,1,9.8,9.8
+Hardware,cisco,catalyst_4500e_supervisor_engine_8-e,1,9.8,9.8
+Hardware,cisco,catalyst_4500e_supervisor_engine_8-e_\(k10\),1,8.6,8.6
+Hardware,cisco,catalyst_4500e_supervisor_engine_8l-e_\(k10\),1,8.6,8.6
+Hardware,cisco,catalyst_4500e_supervisor_engine_9-e_\(k10\),1,8.6,8.6
+Hardware,cisco,catalyst_4900m_switch_\(k5\),1,8.6,8.6
+Hardware,cisco,catalyst_4928_10_gigabit_ethernet_switch,1,9.8,9.8
+Hardware,cisco,catalyst_4948,1,9.8,9.8
+Hardware,cisco,catalyst_4948_10_gigabit_ethernet_switch,1,9.8,9.8
+Hardware,cisco,catalyst_4000_supervisor_engine_i,1,9.8,9.8
+Hardware,cisco,catalyst_4000_supervisor_engine_iv,1,9.8,9.8
+Hardware,cisco,catalyst_4000_supervisor_engine_v,1,9.8,9.8
+Hardware,cisco,catalyst_4500-x_series_switches_\(k10\),1,8.6,8.6
+Hardware,cisco,catalyst_4500_supervisor_engine_6-e_\(k5\),1,8.6,8.6
+Hardware,cisco,catalyst_4500_supervisor_engine_6l-e_\(k10\),1,8.6,8.6
+Hardware,cisco,catalyst_4500_supervisor_engine_7-e_\(k10\),1,8.6,8.6
+Aplicación,fxwebdesign,com_jradio,1,,
+Aplicación,g4j.laoneo,com_gcalendar,1,,
+Hardware,cisco,catalyst_4948e_ethernet_switch_\(k5\),1,8.6,8.6
+Hardware,cisco,catalyst_6000,1,6.5,6.5
+Hardware,cisco,catalyst_6000_ws-svc-nam-1,1,6.5,6.5
+Hardware,cisco,catalyst_6000_ws-svc-nam-2,1,6.5,6.5
+Hardware,cisco,catalyst_6000_ws-x6380-nam,1,6.5,6.5
+Hardware,cisco,catalyst_6500_ws-svc-nam-1,1,6.5,6.5
+Hardware,cisco,catalyst_6500_ws-svc-nam-2,1,6.5,6.5
+Hardware,cisco,catalyst_6500_ws-x6380-nam,1,6.5,6.5
+Hardware,cisco,catalyst_4500_supervisor_engine_7l-e_\(k10\),1,8.6,8.6
+Hardware,cisco,catalyst_4500_supervisor_engine_ii-plus,1,9.8,9.8
+Hardware,cisco,catalyst_4500_supervisor_engine_ii-plus-ts,1,9.8,9.8
+Hardware,cisco,catalyst_4500_supervisor_engine_iv,1,9.8,9.8
+Hardware,cisco,catalyst_4500_supervisor_engine_v,1,9.8,9.8
+Hardware,cisco,catalyst_4500_supervisor_engine_v-10ge,1,9.8,9.8
+Hardware,cisco,catalyst_4948e-f,1,7.5,7.5
+Hardware,cisco,catalyst_4948e-f_ethernet_switch,1,9.8,9.8
+Hardware,cisco,catalyst_4948e_ethernet_switch,1,9.8,9.8
+Aplicación,greatjoomla,scriptegrator_plugin,1,,
+Aplicación,harmistechnology,com_jejob,1,,
+Aplicación,harmistechnology,com_jequoteform,1,,
+Aplicación,harmistechnology,com_jesectionfinder,1,,
+Aplicación,heat-trackr_project,heat-trackr,1,,
+Aplicación,helpdesk_pro_project,helpdesk_pro,1,,
+Aplicación,hero-maps-pro_project,hero-maps-pro,1,,
+Aplicación,horde,horde,1,,
+Aplicación,hp,airwave,1,,
+Aplicación,hp,application_lifecycle_management,1,9.8,9.8
+Aplicación,hp,data_protector,1,,
+Aplicación,fujitsu,interstage_business_process_manager_analytics,1,9.8,9.8
+Aplicación,fullworksplugins,stop_user_enumeration,1,,
+Aplicación,forescout,counteract,1,,
+Aplicación,fractalia,flexible_custom_post_type,1,,
+Aplicación,frontend_uploader_project,frontend_uploader,1,,
+Aplicación,gameconnect,sourcebans,1,,
+Aplicación,gecad,axigen_free_mail_server,1,,
+Aplicación,geddyjs,geddy,1,,
+Aplicación,gelembjuk,com_smestorage,1,,
+Aplicación,genetechsolutions,pie_register,1,,
+Aplicación,getshortcodes,shortcodes_ultimate,1,,
+Aplicación,gianni_tommasi,kr-php_web_content_server,1,,
+Aplicación,gitlist,gitlist,1,9.8,9.8
+Aplicación,givesight,com_powermail,1,,
+Aplicación,gogits,gogs,1,,
+Aplicación,gogoritas,com_photobattle,1,,
+Aplicación,f5,big-iq_cloud_and_orchestration,1,5.5,5.5
+Hardware,cisco,catalyst_4948e,1,7.5,7.5
+Aplicación,dev.pucit.edu.pk,com_webtv,1,,
+Aplicación,devalcms,devalcms,1,,
+Aplicación,dhtmlx,dhtmlxspreadsheet,1,,
+Aplicación,digitalzoomstudio,video_gallery,1,,
+Aplicación,f5,big-iq_application_delivery_controller,1,5.5,5.5
+Aplicación,f5,big-iq_centralized_management,1,5.5,5.5
+Aplicación,drupal,drupal,1,,
+Aplicación,duckdev,404_to_301,1,9.8,9.8
+Aplicación,dukapress,dukapress,1,,
+Aplicación,e-search_project,e-search,1,,
+Aplicación,fabrikar,fabrik,1,,
+Aplicación,featurific_for_wordpress_project,featurific-for-wordpress,1,,
+Aplicación,filezilla,filezilla_server,1,,
+Aplicación,flatnux,flatnux,1,,
+Aplicación,foobla,com_foobla_suggestions,1,,
+Aplicación,foobla,com_obsuggest,1,,
+Aplicación,dompdf,dompdf,1,,
+Aplicación,domphp,domphp,1,,
+Aplicación,dreambox,opendreambox,1,,
+Aplicación,count_per_day_project,count_per_day,1,,
+Aplicación,creative-solutions,creative_contact_form,1,9.8,9.8
+Aplicación,cross-rss_plugin_project,wp-cross-rss,1,,
+Aplicación,cybercompany,swipehq-payment-gateway-woocommerce,1,6.1,6.1
+Aplicación,e-search_project,esearch,1,,
+Aplicación,eclipse,jetty,1,,
+Aplicación,eleanor-cms,eleanor_cms,1,,
+Aplicación,elegantthemes,divi,1,,
+Aplicación,embedthis,goahead,1,8.1,8.1
+Aplicación,episerver,episerver,1,,
+Aplicación,ericsson,drutt_mobile_service_delivery_platform,1,,
+Aplicación,extplorer,com_extplorer,1,,
+Aplicación,eyou,eyou,1,9.8,9.8
+Aplicación,designmodo,qards,1,6.1,6.1
+Aplicación,designsandcode,forget_about_shortcode_buttons,1,,
+Aplicación,dev.pucit.edu.pk,com_arcadegames,1,,
+Aplicación,dev.pucit.edu.pk,com_market,1,,
+Aplicación,cminds,tooltip_glossary,1,,
+Aplicación,cmsimple,cmsimple,1,,
+Aplicación,cmstactics,com_beeheard,1,,
+Aplicación,cmstactics,com_beeheardlite,1,,
+Aplicación,dionesoft,com_dioneformwizard,1,,
+Aplicación,dirk_bartley,nweb2fax,1,,
+Aplicación,djangoproject,django,1,,
+Aplicación,documentcloud,navis_documentcloud,1,,
+Aplicación,dokuwiki,dokuwiki,1,,
+Aplicación,dolibarr,dolibarr,1,,
+Aplicación,dolibarr,dolibarr_erp\/crm,1,,
+Aplicación,domainmod,domainmod,1,,
+Hardware,cisco,catalyst_blade_switch_3040,1,9.8,9.8
+Hardware,cisco,catalyst_blade_switch_3120,1,9.8,9.8
+Hardware,cisco,catalyst_blade_switch_3120x,1,9.8,9.8
+Hardware,cisco,catalyst_blade_switch_3130,1,9.8,9.8
+Hardware,cisco,catalyst_c2928-24lt-c,1,9.8,9.8
+Hardware,cisco,catalyst_c2928-48tc-c,1,9.8,9.8
+Hardware,cisco,catalyst_digital_building_series_switches-8p,1,6.3,6.3
+Hardware,cisco,catalyst_digital_building_series_switches-8u,1,6.3,6.3
+Aplicación,czepol,wp-planet,1,6.1,6.1
+Aplicación,danieljamesscott,com_music,1,,
+Aplicación,db_backup_project,db_backup,1,,
+Aplicación,debian,horde,1,,
+Aplicación,debian,horde_groupware,1,,
+Aplicación,decryptweb,com_dwgraphs,1,,
+Aplicación,dedecms,dedecms,1,,
+Aplicación,defa-online-image-protector_project,defa-online-image-protector,1,,
+Aplicación,codecall,com_ionfiles,1,,
+Aplicación,cofax,cofax,1,,
+Aplicación,com-property,com_properties,1,,
+Aplicación,com_janews,com_janews,1,,
+Aplicación,combodo,itop,1,,
+Aplicación,connectwise,manageditsync,1,9.8,9.8
+Aplicación,cookex,com_ckforms,1,,
+Aplicación,corejoomla,com_communitypolls,1,,
+Aplicación,cory_lamle,duplicator,1,,
+Aplicación,cisco,unified_intelligence_center,1,10.0,10.0
+Aplicación,cisco,unified_ip_ivr,1,,
+Aplicación,cisco,unified_sip_proxy,1,10.0,10.0
+Aplicación,cisco,unified_workforce_optimization,1,10.0,10.0
+Hardware,cisco,catalyst_blade_switch_3020,1,9.8,9.8
+Hardware,cisco,catalyst_blade_switch_3030,1,9.8,9.8
+Hardware,cisco,catalyst_blade_switch_3032,1,9.8,9.8
+Hardware,cisco,firepower_1120,1,10.0,10.0
+Hardware,cisco,firepower_1140,1,10.0,10.0
+Hardware,cisco,firepower_1150,1,10.0,10.0
+Hardware,cisco,firepower_2110,1,10.0,10.0
+Hardware,cisco,firepower_2120,1,10.0,10.0
+Hardware,cisco,firepower_2130,1,10.0,10.0
+Hardware,cisco,firepower_2140,1,10.0,10.0
+Hardware,cisco,firepower_4110,1,10.0,10.0
+Hardware,cisco,catalyst_switch_module_3012,1,9.8,9.8
+Hardware,cisco,catalyst_switch_module_3110,1,9.8,9.8
+Hardware,cisco,catalyst_switch_module_3110x,1,9.8,9.8
+Hardware,cisco,cbr-8_converged_broadband_router,1,7.5,7.5
+Hardware,cisco,cbr8_converged_broadband_router,1,7.5,7.5
+Aplicación,cobblerd,cobbler,1,,
+Aplicación,code-garage,com_noticeboard,1,,
+Aplicación,codeasily,grand_flagallery,1,,
+Hardware,cisco,firepower_4125,1,10.0,10.0
+Hardware,cisco,firepower_4140,1,10.0,10.0
+Hardware,cisco,firepower_4145,1,10.0,10.0
+Hardware,cisco,firepower_4150,1,10.0,10.0
+Hardware,cisco,firepower_9300,1,10.0,10.0
+Hardware,cisco,firewall_services_module,1,7.8,7.8
+Hardware,cisco,gigabit_ethernet_switch_module_\(cgesm\),1,9.8,9.8
+Hardware,cisco,ie-3010-16s-8pc,1,7.5,7.5
+Hardware,cisco,ie-3010-16s-8pc_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-3010-24tc,1,7.5,7.5
+Hardware,cisco,ie-3010-24tc_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-16gt4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-16t4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,enhanced_layer_2\/3_etherswitch_service_module,1,9.8,9.8
+Hardware,cisco,enhanced_layer_2_etherswitch_service_module,1,9.8,9.8
+Hardware,cisco,firepower_1010,1,10.0,10.0
+Hardware,cisco,ie-4000-4t4p4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-4tc4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-8gs4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-8gt4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-8gt8gp4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-8s4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-8t4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4010-16s12p_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4010-4s24p_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-5000-12s12p-10g_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-5000-16s12p_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-16ptc-g,1,7.5,7.5
+Hardware,cisco,ie_2000-16ptc-g_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,firepower_4112,1,10.0,10.0
+Hardware,cisco,firepower_4115,1,10.0,10.0
+Hardware,cisco,firepower_4120,1,10.0,10.0
+Hardware,cisco,ie_2000-16t67p_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-16tc,1,7.5,7.5
+Hardware,cisco,ie_2000-16tc-g,1,7.5,7.5
+Hardware,cisco,ie_2000-16tc-g-e,1,7.5,7.5
+Hardware,cisco,ie_2000-16tc-g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-16tc-g-n,1,7.5,7.5
+Hardware,cisco,ie_2000-16tc-g-n_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-16tc-g-x,1,7.5,7.5
+Hardware,cisco,ie_2000-16tc-g-x_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-16tc-g_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-16tc_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-24t67,1,7.5,7.5
+Hardware,cisco,ie_2000-24t67_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-4gc4gp4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-4gs8gp4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie-4000-4s8p4g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-4t-g,1,7.5,7.5
+Hardware,cisco,ie_2000-4t-g_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-4t_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-4ts,1,7.5,7.5
+Hardware,cisco,ie_2000-4ts-g,1,7.5,7.5
+Hardware,cisco,ie_2000-4ts-g_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-4ts_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-8t67,1,7.5,7.5
+Hardware,cisco,ie_2000-8t67_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-8t67p,1,7.5,7.5
+Hardware,cisco,ie_2000-8t67p_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-8tc,1,7.5,7.5
+Hardware,cisco,ie_2000-8tc-g,1,7.5,7.5
+Hardware,cisco,ie_2000-16t67,1,7.5,7.5
+Hardware,cisco,ie_2000-16t67_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-16t67p,1,7.5,7.5
+Hardware,cisco,ie_2000-8tc-g-n_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-8tc-g_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-8tc_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_3000-4tc,1,7.5,7.5
+Hardware,cisco,ie_3000-4tc_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_3000-8tc,1,7.5,7.5
+Hardware,cisco,ie_3000-8tc_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,industrial_ethernet_2000_16ptc-g-e_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_16ptc-g-l_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_16ptc-g-nx_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_16t67-b_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_16t67p-g-e_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_16tc-g-e_switch,1,7.5,7.5
+Hardware,cisco,ie_2000-4s-ts-g,1,7.5,7.5
+Hardware,cisco,ie_2000-4s-ts-g_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-4t,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_16tc-l_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_24t67-b_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_4s-ts-g-b_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_4s-ts-g-l_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_4t-b_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_4t-g-b_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_4t-g-l_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_4t-l_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_4ts-b_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_4ts-g-b_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_4ts-g-l_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_4ts-l_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_8t67-b_switch,1,7.5,7.5
+Hardware,cisco,ie_2000-8tc-g-e,1,7.5,7.5
+Hardware,cisco,ie_2000-8tc-g-e_industrial_ethernet_switch,1,9.8,9.8
+Hardware,cisco,ie_2000-8tc-g-n,1,7.5,7.5
+Aplicación,cisco,sd-wan_vmanage,1,10.0,10.0
+Aplicación,cisco,secure_access_control_system,1,9.8,9.8
+Aplicación,cisco,smart_phy,1,10.0,10.0
+Hardware,cisco,industrial_ethernet_2000_8tc-g-l_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_8tc-g-n_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_8tc-l_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_series_firmware,1,7.5,7.5
+Hardware,cisco,me_3600x-24cx-m,1,7.5,7.5
+Hardware,cisco,me_3600x-24fs-m,1,7.5,7.5
+Hardware,cisco,me_3600x-24ts-m,1,7.5,7.5
+Hardware,cisco,me_3800x-24fs-m,1,7.5,7.5
+Hardware,cisco,me_4924-10ge,1,9.8,9.8
+Hardware,cisco,network_convergence_system_520,1,5.9,5.9
+Hardware,cisco,industrial_ethernet_2000_16tc-g-l_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_16tc-g-n_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_16tc-g-x_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_8tc-b_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_8tc-g-b_switch,1,7.5,7.5
+Hardware,cisco,industrial_ethernet_2000_8tc-g-e_switch,1,7.5,7.5
+Aplicación,cisco,unity_connection,1,10.0,10.0
+Aplicación,cisco,video_distribution_suite_for_internet_streaming,1,8.1,8.1
+Aplicación,cisco,video_surveillance_manager,1,10.0,10.0
+Aplicación,cisco,video_surveillance_operations_manager,1,10.0,10.0
+Aplicación,cisco,virtual_topology_system,1,10.0,10.0
+Aplicación,cisco,virtualized_infrastructure_manager,1,10.0,10.0
+Aplicación,cisco,virtualized_voice_browser,1,10.0,10.0
+Aplicación,cisco,wan_automation_engine,1,10.0,10.0
+Aplicación,cisco,webex_meetings_server,1,10.0,10.0
+Aplicación,cisco,workload_optimization_manager,1,10.0,10.0
+Aplicación,citrix,netscaler_sd-wan,1,9.8,9.8
+Aplicación,clickdesk,clickdesk_live_support-live_chat_plugin,1,,
+Aplicación,cisco,prime_service_catalog,1,10.0,10.0
+Hardware,dahuasecurity,dh-ipc-hfw2xxx,1,,
+Hardware,dahuasecurity,dh-ipc-hfw4xxx,1,,
+Hardware,dahuasecurity,dh-nvr1xxx,1,,
+Hardware,dahuasecurity,dh-sd6cxx,1,,
+Hardware,dahuasecurity,dhi-hcvr51a04he-s3,1,,
+Hardware,dahuasecurity,dhi-hcvr51a08he-s3,1,,
+Hardware,dahuasecurity,dhi-hcvr58a32s-s2,1,,
+Hardware,dlink,dcs-930l,1,7.2,7.2
+Hardware,dlink,dir-140l,1,7.5,7.5
+Hardware,cisco,rf_gateway_10,1,9.8,9.8
+Hardware,cisco,sm-x_layer_2\/3_etherswitch_service_module,1,9.8,9.8
+Hardware,cisco,unified_ip_interactive_voice_response,1,,
+Hardware,cisco,wvc54gca,1,,
+Hardware,dahuasecurity,ddh-hcvr4xxx,1,,
+Hardware,dahuasecurity,dh-hcvr5xxx,1,,
+Hardware,cisco,industrial_ethernet_2000_8t67p-g-e_switch,1,7.5,7.5
+Hardware,dlink,dir-615,1,9.8,9.8
+Hardware,dlink,dir-619l,1,9.8,9.8
+Hardware,dlink,dir-626l,1,9.8,9.8
+Hardware,dlink,dir-636l,1,9.8,9.8
+Hardware,dlink,dir-640l,1,7.5,7.5
+Hardware,dlink,dir-645,1,8.8,8.8
+Hardware,dlink,dir-651,1,9.8,9.8
+Hardware,dlink,dir-808l,1,9.8,9.8
+Hardware,dlink,dir-809,1,9.8,9.8
+Hardware,dlink,dir-810l,1,9.8,9.8
+Hardware,dahuasecurity,dh-ipc-hdbw13a0sn,1,,
+Hardware,dahuasecurity,dh-ipc-hdbw23a0rn-zs,1,,
+Hardware,dahuasecurity,dh-ipc-hdw1xxx,1,,
+Hardware,dahuasecurity,dh-ipc-hdw2xxx,1,,
+Hardware,dahuasecurity,dh-ipc-hdw4xxx,1,,
+Hardware,dahuasecurity,dh-ipc-hfw1xxx,1,,
+Aplicación,cisco,ucs_central_software,1,10.0,10.0
+Aplicación,cisco,ucs_director,1,10.0,10.0
+Aplicación,cisco,unified_ccx,1,,
+Aplicación,cisco,unified_communications_manager_im_\&_presence_service,1,10.0,10.0
+Aplicación,cisco,unified_communications_manager_im_and_presence_service,1,10.0,10.0
+Aplicación,cisco,unified_computing_system,1,10.0,10.0
+Aplicación,cisco,unified_contact_center_enterprise,1,10.0,10.0
+Aplicación,cisco,unified_contact_center_express,1,10.0,10.0
+Aplicación,cisco,unified_contact_center_management_portal,1,10.0,10.0
+Aplicación,cisco,unified_customer_voice_portal,1,10.0,10.0
+Aplicación,cisco,integrated_management_controller_supervisor,1,10.0,10.0
+Aplicación,cisco,intersight_virtual_appliance,1,10.0,10.0
+Aplicación,cisco,iot_operations_dashboard,1,10.0,10.0
+Aplicación,cisco,media_experience_engine,1,8.1,8.1
+Hardware,dlink,dir-600l,1,9.8,9.8
+Hardware,dlink,dir-605l,1,9.8,9.8
+Hardware,dlink,dir-820l,1,9.8,9.8
+Hardware,dlink,dir-826l,1,9.8,9.8
+Hardware,dlink,dir-830l,1,9.8,9.8
+Hardware,dlink,dir-836l,1,9.8,9.8
+Hardware,dlink,dir-900l,1,9.8,9.8
+Hardware,dlink,dir-905l,1,9.8,9.8
+Hardware,dlink,dsl-2750b,1,9.8,9.8
+Hardware,dlink,dsl-2760u,1,5.4,5.4
+Hardware,dlink,dvg-n5402sp,1,,
+Hardware,dlink,dwr-712,1,7.5,7.5
+Hardware,hikvision,ds-2cd2032-i,1,9.8,9.8
+Hardware,dlink,dir-300,1,5.7,5.7
+Hardware,dlink,dir-501,1,9.8,9.8
+Hardware,dlink,dir-515,1,9.8,9.8
+Hardware,dlink,dir-600,1,8.0,8.0
+Aplicación,cisco,ucs_central,1,10.0,10.0
+Hardware,hikvision,ds-2cd2112-i,1,9.8,9.8
+Hardware,hikvision,ds-2cd2132-i,1,9.8,9.8
+Hardware,hikvision,ds-2cd2212-i5,1,9.8,9.8
+Hardware,hikvision,ds-2cd2232-i5,1,9.8,9.8
+Hardware,hikvision,ds-2cd2312-i,1,9.8,9.8
+Hardware,hikvision,ds-2cd2332-i,1,9.8,9.8
+Hardware,hikvision,ds-2cd2412f-i\(w\),1,9.8,9.8
+Hardware,hikvision,ds-2cd2432f-i\(w\),1,9.8,9.8
+Hardware,hikvision,ds-2cd2512f-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd2532f-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd2612f-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd2632f-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd2712f-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd2732f-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd2t32-i3,1,9.8,9.8
+Hardware,hikvision,ds-2cd2t32-i5,1,9.8,9.8
+Hardware,hikvision,ds-2cd2t32-i8,1,9.8,9.8
+Hardware,hikvision,ds-2cd4012f-\(a\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4012f-\(p\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4012f-\(w\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4012fwd-\(a\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4012fwd-\(p\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4012fwd-\(w\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4024f-\(a\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4024f-\(p\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4024f-\(w\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4032fwd-\(a\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4032fwd-\(p\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4032fwd-\(w\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4112f-i\(z\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4112fwd-i\(z\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4124f-i\(z\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4132fwd-i\(z\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4212f-i\(h\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4212f-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4212f-i\(z\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4212fwd-i\(h\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4212fwd-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4212fwd-i\(z\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4224f-i\(h\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4224f-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4224f-i\(z\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4232fwd-i\(h\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4232fwd-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4232fwd-i\(z\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4312f-i\(h\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4312f-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4312f-i\(z\),1,9.8,9.8
+Hardware,motorola,razr_hd,1,7.8,7.8
+Hardware,motorola,razr_m,1,7.8,7.8
+Hardware,motorola,surfboard_sbv6120e,1,,
+Hardware,netgear,ac1450,1,8.1,8.1
+Hardware,netgear,d6100,1,9.8,9.8
+Hardware,hikvision,ds-2cd4324f-i\(h\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4324f-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4324f-i\(z\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4332fwd-i\(h\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4332fwd-i\(s\),1,9.8,9.8
+Hardware,hikvision,ds-2cd4332fwd-i\(z\),1,9.8,9.8
+Hardware,hikvision,ds-2cd63xx_series,1,9.8,9.8
+Hardware,hikvision,ds-2cd6412fwd,1,9.8,9.8
+Hardware,hikvision,ds-2dfx_series,1,9.8,9.8
+Hardware,hp,integrated_lights-out_4,1,,
+Hardware,hpe,proliant_ml10_gen9_server,1,9.8,9.8
+Hardware,netgear,dgn2200bv4,1,8.1,8.1
+Hardware,netgear,dgn2200v1,1,8.8,8.8
+Hardware,netgear,dgn2200v2,1,8.8,8.8
+Hardware,netgear,dgn2200v3,1,8.8,8.8
+Hardware,netgear,dgn2200v4,1,8.8,8.8
+Hardware,netgear,dgnd3700,1,,
+Hardware,netgear,jnr1010v2,1,9.8,9.8
+Hardware,netgear,jnr3300,1,9.8,9.8
+Hardware,netgear,jwnr2010v5,1,9.8,9.8
+Hardware,netgear,r2000,1,9.8,9.8
+Hardware,intelbras,wrn_150,1,,
+Hardware,intellian,v100,1,7.5,7.5
+Hardware,intellian,v60,1,7.5,7.5
+Hardware,lantronix,securelinx_spider,1,,
+Hardware,lenovo,storage_v5030,1,9.8,9.8
+Hardware,motorola,atrix_hd,1,7.8,7.8
+Hardware,netgear,r6300,1,8.1,8.1
+Hardware,netgear,r6400,1,8.8,8.8
+Hardware,netgear,r6700,1,8.8,8.8
+Hardware,netgear,r6900,1,8.8,8.8
+Hardware,netgear,r7000,1,8.8,8.8
+Hardware,netgear,r7100lg,1,8.8,8.8
+Hardware,netgear,r7300dst,1,8.8,8.8
+Hardware,netgear,r7500,1,9.8,9.8
+Hardware,netgear,r7500v2,1,9.8,9.8
+Hardware,netgear,r7900,1,8.8,8.8
+Hardware,netgear,r8000,1,8.8,8.8
+Hardware,netgear,vegn2610,1,8.1,8.1
+Hardware,netgear,d6300,1,8.1,8.1
+Hardware,netgear,d6300b,1,8.1,8.1
+Hardware,netgear,d7000,1,9.8,9.8
+Hardware,netgear,d7800,1,9.8,9.8
+Hardware,netgear,wndap350,1,9.8,9.8
+Hardware,netgear,wndap360,1,9.8,9.8
+Hardware,netgear,wndap660,1,9.8,9.8
+Hardware,netgear,wndr3700v3,1,8.1,8.1
+Hardware,netgear,wndr3700v4,1,9.8,9.8
+Hardware,netgear,wndr3800,1,9.8,9.8
+Hardware,netgear,wndr4000,1,8.1,8.1
+Hardware,netgear,wndr4300,1,9.8,9.8
+Hardware,netgear,wndr4300v2,1,9.8,9.8
+Hardware,netgear,wndr4500,1,8.1,8.1
+Hardware,netgear,wndr4500v3,1,9.8,9.8
+Hardware,netgear,wndr4700,1,9.8,9.8
+Hardware,netgear,r6100,1,9.8,9.8
+Hardware,netgear,r6200,1,8.1,8.1
+Hardware,netgear,r6220,1,9.8,9.8
+Hardware,netgear,r6250,1,8.8,8.8
+Aplicación,cisco,digital_media_manager,1,8.1,8.1
+Hardware,netgear,wnr2000v3,1,9.8,9.8
+Hardware,netgear,wnr2000v4,1,9.8,9.8
+Hardware,netgear,wnr2000v5,1,9.8,9.8
+Hardware,netgear,wnr2020,1,9.8,9.8
+Hardware,netgear,wnr2050,1,9.8,9.8
+Hardware,netgear,wnr2200,1,9.8,9.8
+Hardware,netgear,wnr2500,1,9.8,9.8
+Hardware,netgear,wnr614,1,9.8,9.8
+Hardware,netgear,wnr618,1,9.8,9.8
+Hardware,qualcomm,msm8960,1,7.8,7.8
+Hardware,ricon,s9922l,1,7.5,7.5
+Hardware,netgear,wn604,1,9.8,9.8
+Hardware,netgear,wn802tv2,1,9.8,9.8
+Hardware,netgear,wnap320,1,9.8,9.8
+Hardware,netgear,wndap210v2,1,9.8,9.8
+Hardware,netgear,wnr2000,1,9.8,9.8
+Aplicación,cisco,mobility_services_engine,1,10.0,10.0
+Aplicación,cisco,network_assurance_engine,1,10.0,10.0
+Aplicación,cisco,network_dashboard_fabric_controller,1,10.0,10.0
+Aplicación,cisco,network_insights_for_data_center,1,10.0,10.0
+Aplicación,cisco,network_performance_analysis,1,8.1,8.1
+Aplicación,cisco,network_services_orchestrator,1,10.0,10.0
+Aplicación,cisco,nexus_dashboard,1,10.0,10.0
+Aplicación,cisco,nexus_insights,1,10.0,10.0
+Aplicación,cisco,optical_network_controller,1,10.0,10.0
+Aplicación,cisco,packaged_contact_center_enterprise,1,10.0,10.0
+Aplicación,cisco,paging_server,1,10.0,10.0
+Aplicación,cisco,prime_data_center_network_manager,1,7.5,7.5
+Aplicación,cisco,cyber_vision,1,10.0,10.0
+Aplicación,cisco,cyber_vision_sensor_management_extension,1,10.0,10.0
+Aplicación,cisco,data_center_network_manager,1,10.0,10.0
+Hardware,siemens,simatic_ipc477d,1,9.8,9.8
+Hardware,siemens,simatic_ipc477e,1,9.8,9.8
+Hardware,siemens,simatic_ipc547d,1,9.8,9.8
+Hardware,siemens,simatic_ipc547e,1,9.8,9.8
+Hardware,siemens,simatic_ipc547g,1,9.8,9.8
+Hardware,rockwellautomation,allen-bradley_stratix_5900_services_router,1,8.0,8.0
+Hardware,seagate,blackarmor_nas_110,1,,
+Hardware,seagate,blackarmor_nas_220,1,,
+Hardware,siemens,6bk1602-0aa12-0tp0,1,10.0,10.0
+Hardware,siemens,6bk1602-0aa22-0tp0,1,10.0,10.0
+Hardware,siemens,6bk1602-0aa32-0tp0,1,10.0,10.0
+Hardware,siemens,6bk1602-0aa42-0tp0,1,10.0,10.0
+Hardware,siemens,6bk1602-0aa52-0tp0,1,10.0,10.0
+Hardware,netgear,wnr1000v2,1,9.8,9.8
+Hardware,netgear,wnr1000v3,1,8.1,8.1
+Hardware,netgear,wnr1000v4,1,9.8,9.8
+Hardware,siemens,simatic_ipc847c,1,9.8,9.8
+Hardware,siemens,simatic_ipc847d,1,9.8,9.8
+Hardware,siemens,simatic_itp1000,1,9.8,9.8
+Hardware,siemens,simatic_pcs_7_ipc427e,1,9.8,9.8
+Hardware,siemens,simatic_pcs_7_ipc477d,1,9.8,9.8
+Hardware,siemens,simatic_pcs_7_ipc547d,1,9.8,9.8
+Hardware,siemens,simatic_pcs_7_ipc547e,1,9.8,9.8
+Hardware,siemens,simatic_pcs_7_ipc547g,1,9.8,9.8
+Hardware,siemens,application_processing_engine,1,7.5,7.5
+Hardware,siemens,cp_1543-1,1,7.5,7.5
+Hardware,siemens,simatic_cp_1543-1,1,7.5,7.5
+Hardware,siemens,simatic_field_pg_m3,1,9.8,9.8
+Hardware,siemens,simatic_field_pg_m4,1,9.8,9.8
+Hardware,siemens,simatic_field_pg_m5,1,9.8,9.8
+Hardware,siemens,simatic_ipc427d,1,9.8,9.8
+Hardware,siemens,simatic_ipc427e,1,9.8,9.8
+Hardware,siemens,simatic_s7_cpu-1211c,1,,
+Hardware,siemens,simatic_s7_cpu_1212c,1,,
+Hardware,siemens,simatic_s7_cpu_1214c,1,,
+Hardware,siemens,simatic_s7_cpu_1215c,1,,
+Hardware,siemens,simatic_s7_cpu_1217c,1,,
+Hardware,siemens,simotion_p320-4_s,1,9.8,9.8
+Hardware,siemens,sinumerik_pcu_50.5-p,1,9.8,9.8
+Hardware,siemens,siplus_net_cp_1543-1,1,7.5,7.5
+Hardware,siemens,simatic_ipc627c,1,9.8,9.8
+Hardware,siemens,simatic_ipc627d,1,9.8,9.8
+Hardware,siemens,simatic_ipc647c,1,9.8,9.8
+Hardware,siemens,simatic_ipc647d,1,9.8,9.8
+Hardware,siemens,simatic_ipc677c,1,9.8,9.8
+Hardware,siemens,simatic_ipc677d,1,9.8,9.8
+Hardware,siemens,simatic_ipc827c,1,9.8,9.8
+Hardware,siemens,simatic_ipc827d,1,9.8,9.8
+Hardware,sony,snc-ch220,1,,
+Hardware,sony,snc-ch260,1,,
+Hardware,sony,snc-cx600,1,,
+Hardware,sony,snc-cx600w,1,,
+Hardware,sony,snc-dh120,1,,
+Hardware,sony,snc-dh120t,1,,
+Hardware,sony,snc-dh160,1,,
+Hardware,sony,snc-dh220,1,,
+Hardware,siemens,simatic_pcs_7_ipc627c,1,9.8,9.8
+Hardware,siemens,simatic_pcs_7_ipc647c,1,9.8,9.8
+Hardware,siemens,simatic_pcs_7_ipc647d,1,9.8,9.8
+Hardware,siemens,simatic_pcs_7_ipc677c,1,9.8,9.8
+Hardware,siemens,simatic_pcs_7_ipc847c,1,9.8,9.8
+Hardware,siemens,simatic_pcs_7_ipc847d,1,9.8,9.8
+Hardware,siemens,simatic_s7-1500,1,7.5,7.5
+Hardware,siemens,simatic_s7-1500t,1,7.5,7.5
+Hardware,sony,snc-eb600b,1,,
+Hardware,sony,snc-eb602r,1,,
+Hardware,sony,snc-eb630,1,,
+Hardware,sony,snc-eb630b,1,,
+Hardware,sony,snc-eb632r,1,,
+Hardware,sony,snc-em520,1,,
+Hardware,sony,snc-em521,1,,
+Hardware,sony,snc-em600,1,,
+Hardware,sony,snc-em601,1,,
+Hardware,sony,snc-em602r,1,,
+Hardware,sony,snc-em602rc,1,,
+Hardware,sony,snc-em630,1,,
+Hardware,siemens,sppa-t3000_ses3000,1,10.0,10.0
+Hardware,sony,snc-ch115,1,,
+Hardware,sony,snc-ch120,1,,
+Hardware,sony,snc-ch160,1,,
+Hardware,sony,snc-ep521,1,,
+Hardware,sony,snc-ep550,1,,
+Hardware,sony,snc-ep580,1,,
+Hardware,sony,snc-er520,1,,
+Hardware,sony,snc-er521,1,,
+Hardware,sony,snc-er521c,1,,
+Hardware,sony,snc-er550,1,,
+Hardware,sony,snc-er550c,1,,
+Hardware,sony,snc-er580,1,,
+Hardware,sony,snc-er585,1,,
+Hardware,sony,snc-er585h,1,,
+Hardware,sony,snc-vb600,1,,
+Hardware,sony,snc-dh220t,1,,
+Hardware,sony,snc-dh260,1,,
+Hardware,sony,snc-eb520,1,,
+Hardware,sony,snc-eb600,1,,
+Hardware,sony,snc-vb6305,1,,
+Hardware,sony,snc-vb6307,1,,
+Hardware,sony,snc-vb632d,1,,
+Hardware,sony,snc-vb635,1,,
+Hardware,sony,snc-vm600,1,,
+Hardware,sony,snc-vm600b,1,,
+Hardware,sony,snc-vm600b5,1,,
+Hardware,sony,snc-vm600l,1,,
+Hardware,sony,snc-vm601,1,,
+Hardware,sony,snc-vm601b,1,,
+Hardware,sony,snc-vm602r,1,,
+Hardware,sony,snc-vm630,1,,
+Hardware,sony,snc-em631,1,,
+Hardware,sony,snc-em632r,1,,
+Hardware,sony,snc-em632rc,1,,
+Hardware,sony,snc-ep520,1,,
+Hardware,sony,snc-wr600,1,,
+Hardware,sony,snc-wr602,1,,
+Hardware,sony,snc-wr602c,1,,
+Hardware,sony,snc-wr602cl,1,,
+Hardware,sony,snc-wr630,1,,
+Hardware,sony,snc-wr632,1,,
+Hardware,sony,snc-wr632c,1,,
+Hardware,sony,snc-xm631,1,,
+Hardware,sony,snc-xm631l,1,,
+Hardware,sony,snc-xm632,1,,
+Hardware,sony,snc-xm636,1,,
+Hardware,sony,snc-xm637,1,,
+Hardware,sony,snc-vb600b,1,,
+Hardware,sony,snc-vb600b5,1,,
+Hardware,sony,snc-vb600l,1,,
+Hardware,sony,snc-vb630,1,,
+Hardware,sony,snc-zr550,1,,
+Hardware,tecvoz,cmnc-200,1,,
+Hardware,thermofisher,dt80_dex,1,9.8,9.8
+Hardware,tp-link,archer_c5,1,7.5,7.5
+Hardware,tp-link,archer_c7,1,7.5,7.5
+Hardware,tp-link,archer_c8,1,7.5,7.5
+Hardware,tp-link,archer_c9,1,7.5,7.5
+Hardware,tp-link,tl-wdr3500,1,7.5,7.5
+Hardware,tp-link,tl-wdr3600,1,7.5,7.5
+Hardware,tp-link,tl-wdr4300,1,7.5,7.5
+Hardware,tp-link,tl-wr740n,1,7.5,7.5
+Hardware,tp-link,tl-wr741nd,1,7.5,7.5
+Hardware,sony,snc-vm6305,1,,
+Hardware,sony,snc-vm6307,1,,
+Hardware,sony,snc-vm631,1,,
+Hardware,sony,snc-vm632r,1,,
+Hardware,trendnet,tew-652br,1,9.8,9.8
+Hardware,trendnet,tew-711br,1,9.8,9.8
+Hardware,trendnet,tew-731br,1,9.8,9.8
+Hardware,trendnet,tew-810dr,1,9.8,9.8
+Hardware,trendnet,tew-813dru,1,9.8,9.8
+Hardware,zte,f460,1,,
+Hardware,zte,f660,1,,
+Hardware,zyxel,emg2926,1,8.8,8.8
+Hardware,zyxel,p660hn-t1a_v1,1,9.8,9.8
+Hardware,zyxel,p660hn-t1a_v2,1,9.8,9.8
+Sistema Operativo,adb,p.dga4001n_firmware,1,,
+Sistema Operativo,amcrest,ipm-721s_firmware,1,,
+Hardware,sony,snc-zb550,1,,
+Hardware,sony,snc-zm550,1,,
+Hardware,sony,snc-zm551,1,,
+Hardware,sony,snc-zp550,1,,
+Aplicación,cisco,cloudcenter_workload_manager,1,10.0,10.0
+Sistema Operativo,aterm,w1200ex-ms_firmware,1,9.8,9.8
+Sistema Operativo,aterm,w1200ex_firmware,1,9.8,9.8
+Sistema Operativo,aterm,w300p_firmware,1,9.8,9.8
+Sistema Operativo,aterm,w500p_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wf300hp2_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wf800hp_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wg1200hp2_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wg1200hp3_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wg1200hp_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wg1200hs2_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wg1200hs_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wg1800hp3_firmware,1,9.8,9.8
+Hardware,tp-link,tl-wr841n,1,7.5,7.5
+Hardware,tp-link,tl-wr841nd,1,7.5,7.5
+Hardware,trendnet,tew-651br,1,9.8,9.8
+Sistema Operativo,cisco,fxos,1,10.0,10.0
+Sistema Operativo,apple,tvos,1,7.8,7.8
+Aplicación,cisco,dna_center,1,10.0,10.0
+Aplicación,cisco,dna_spaces,1,10.0,10.0
+Aplicación,cisco,dna_spaces\,1,10.0,10.0
+Aplicación,cisco,dna_spaces_connector,1,10.0,10.0
+Aplicación,cisco,emergency_responder,1,10.0,10.0
+Aplicación,cisco,enterprise_chat_and_email,1,10.0,10.0
+Aplicación,cisco,evolved_programmable_network_manager,1,10.0,10.0
+Aplicación,cisco,finesse,1,10.0,10.0
+Aplicación,cisco,fog_director,1,10.0,10.0
+Aplicación,cisco,hosted_collaboration_solution,1,8.1,8.1
+Aplicación,cisco,identity_services_engine,1,10.0,10.0
+Aplicación,cisco,cloudcenter_cost_optimizer,1,10.0,10.0
+Aplicación,cisco,cloudcenter_suite,1,10.0,10.0
+Aplicación,cisco,cloudcenter_suite_admin,1,10.0,10.0
+Sistema Operativo,dahuasecurity,dh-ipc-hdbw13a0sn_firmware,1,,
+Sistema Operativo,dahuasecurity,dh-ipc-hdbw23a0rn-zs_firmware,1,,
+Sistema Operativo,dahuasecurity,dh-ipc-hdw1xxx_firmware,1,,
+Sistema Operativo,dahuasecurity,dh-ipc-hdw2xxx_firmware,1,,
+Sistema Operativo,dahuasecurity,dh-ipc-hdw4xxx_firmware,1,,
+Sistema Operativo,dahuasecurity,dh-ipc-hfw1xxx_firmware,1,,
+Sistema Operativo,aterm,wg1800hp4_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wg1900hp2_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wg1900hp_firmware,1,9.8,9.8
+Sistema Operativo,aterm,wr8165n_firmware,1,9.8,9.8
+Sistema Operativo,audiocodes,420hd_ip_phone_firmware,1,,
+Sistema Operativo,avtech,avn801_dvr_firmware,1,9.8,9.8
+Sistema Operativo,belkin,n150_f9k1009_firmware,1,,
+Sistema Operativo,billion,5200w-t_firmware,1,9.8,9.8
+Sistema Operativo,centos,centos,1,7.8,7.8
+Sistema Operativo,cisco,asa_1000v_cloud_firewall_software,1,8.8,8.8
+Sistema Operativo,dahuasecurity,dhi-hcvr51a08he-s3_firmware,1,,
+Sistema Operativo,dahuasecurity,dhi-hcvr58a32s-s2_firmware,1,,
+Sistema Operativo,dlink,dcs-930l_firmware,1,7.2,7.2
+Sistema Operativo,dlink,dir-140l_firmware,1,7.5,7.5
+Sistema Operativo,dlink,dir-300_firmware,1,5.7,5.7
+Sistema Operativo,dlink,dir-501_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-515_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-600_firmware,1,8.0,8.0
+Sistema Operativo,dlink,dir-600l_firmware,1,9.8,9.8
+Sistema Operativo,cisco,pix_firewall_software,1,8.8,8.8
+Sistema Operativo,cisco,unified_sip_proxy,1,10.0,10.0
+Sistema Operativo,cisco,unified_workforce_optimization,1,10.0,10.0
+Sistema Operativo,codeaurora,android-msm,1,8.4,8.4
+Sistema Operativo,d-link,dvg-n5402sp_firmware,1,,
+Sistema Operativo,dahuasecurity,dh-hcvr4xxx_firmware,1,,
+Sistema Operativo,dahuasecurity,dh-hcvr5xxx_firmware,1,,
+Sistema Operativo,dlink,dir-640l_firmware,1,7.5,7.5
+Sistema Operativo,dlink,dir-645_firmware,1,8.8,8.8
+Sistema Operativo,dlink,dir-651_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-808l_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-809_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-810l_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-820l_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-826l_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-830l_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-836l_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-900l_firmware,1,9.8,9.8
+Sistema Operativo,dahuasecurity,dh-ipc-hfw2xxx_firmware,1,,
+Sistema Operativo,dahuasecurity,dh-ipc-hfw4xxx_firmware,1,,
+Sistema Operativo,dahuasecurity,dh-nvr1xxx_firmware,1,,
+Sistema Operativo,dahuasecurity,dh-sd6cxx_firmware,1,,
+Sistema Operativo,dahuasecurity,dhi-hcvr51a04he-s3_firmware,1,,
+Aplicación,cisco,connected_mobile_experiences,1,10.0,10.0
+Aplicación,cisco,contact_center_domain_manager,1,10.0,10.0
+Aplicación,cisco,contact_center_management_portal,1,10.0,10.0
+Aplicación,cisco,crosswork_data_gateway,1,10.0,10.0
+Aplicación,cisco,crosswork_network_automation,1,10.0,10.0
+Aplicación,cisco,crosswork_network_controller,1,10.0,10.0
+Aplicación,cisco,crosswork_optimization_engine,1,10.0,10.0
+Aplicación,cisco,crosswork_platform_infrastructure,1,10.0,10.0
+Aplicación,cisco,crosswork_zero_touch_provisioning,1,10.0,10.0
+Aplicación,cisco,customer_experience_cloud_agent,1,10.0,10.0
+Aplicación,cisco,cx_cloud_agent,1,10.0,10.0
+Aplicación,bueltge,adminimize,1,,
+Aplicación,bukulokomedia,lokomedia_cms,1,,
+Aplicación,camtron,cmnc-200_firmware,1,,
+Aplicación,candidate-application-form_project,candidate-application-form,1,,
+Sistema Operativo,dlink,dir-636l_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2712f-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2732f-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2t32-i3_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2t32-i5_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-905l_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dsl-2750b_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dsl-2760u_firmware,1,5.4,5.4
+Sistema Operativo,dlink,dwr-712_firmware,1,7.5,7.5
+Sistema Operativo,dlink,dwr-921_firmware,1,7.5,7.5
+Sistema Operativo,fiberhome,routerfiberhome_firmware,1,,
+Sistema Operativo,hikvision,ds-2cd2032-i_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-605l_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-615_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-619l_firmware,1,9.8,9.8
+Sistema Operativo,dlink,dir-626l_firmware,1,9.8,9.8
+Aplicación,cisco,common_services_platform_collector,1,10.0,10.0
+Sistema Operativo,hikvision,ds-2cd4032fwd-\(w\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4112f-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4112fwd-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4124f-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2112-i_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2132-i_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2212-i5_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2232-i5_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2312-i_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2332-i_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2412f-i\(w\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2432f-i\(w\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2512f-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2532f-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2612f-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2632f-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4232fwd-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4312f-i\(h\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4312f-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4312f-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd2t32-i8_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4012f-\(a\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4012f-\(p\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4012f-\(w\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4012fwd-\(a\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4012fwd-\(p\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4012fwd-\(w\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4024f-\(a\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4024f-\(p\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4024f-\(w\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4032fwd-\(a\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4032fwd-\(p\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2dfx_series_firmware,1,9.8,9.8
+Sistema Operativo,hp,hp-ux,1,9.8,9.8
+Sistema Operativo,hp,integrated_lights-out_4_firmware,1,,
+Sistema Operativo,hpe,proliant_ml10_gen9_server_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4132fwd-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4212f-i\(h\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4212f-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4212f-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4212fwd-i\(h\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4212fwd-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4212fwd-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4224f-i\(h\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4224f-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4224f-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4232fwd-i\(h\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4232fwd-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,intel,active_management_technology_firmware,1,9.8,9.8
+Sistema Operativo,intelbras,wrn_150_firmware,1,,
+Sistema Operativo,intellian,v100_firmware,1,7.5,7.5
+Sistema Operativo,intellian,v60_firmware,1,7.5,7.5
+Sistema Operativo,juniper,screenos,1,9.8,9.8
+Sistema Operativo,lantronix,securelinx_spider_firmware,1,,
+Sistema Operativo,lenovo,storage_v5030_firmware,1,9.8,9.8
+Sistema Operativo,linux,kernel,1,,
+Sistema Operativo,hikvision,ds-2cd4324f-i\(h\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4324f-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4324f-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4332fwd-i\(h\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4332fwd-i\(s\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd4332fwd-i\(z\)_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd63xx_series_firmware,1,9.8,9.8
+Sistema Operativo,hikvision,ds-2cd6412fwd_firmware,1,9.8,9.8
+Sistema Operativo,microsoft,windows_10_21h2,1,5.5,5.5
+Sistema Operativo,microsoft,windows_10_22h2,1,5.5,5.5
+Aplicación,cherokee,cherokee_httpd,1,,
+Aplicación,chillcreations,com_ccnewsletter,1,5.8,5.8
+Aplicación,chris_simon,com_abbrev,1,,
+Aplicación,church_admin_project,church_admin,1,,
+Aplicación,cisco,advanced_malware_protection_virtual_private_cloud_appliance,1,10.0,10.0
+Aplicación,cisco,automated_subsea_tuning,1,10.0,10.0
+Aplicación,cisco,broadworks,1,10.0,10.0
+Aplicación,cisco,business_process_automation,1,10.0,10.0
+Aplicación,cisco,cloud_connect,1,10.0,10.0
+Aplicación,cisco,cloudcenter,1,10.0,10.0
+Aplicación,bestwebsoft,testimonials,1,,
+Aplicación,bestwebsoft,timesheet,1,,
+Aplicación,bestwebsoft,twitter_button,1,,
+Aplicación,bestwebsoft,updater,1,,
+Aplicación,bonitasoft,bonita_bpm_portal,1,,
+Aplicación,bouqueteditor_project,bouqueteditor,1,,
+Aplicación,brafton,brafton,1,6.1,6.1
+Aplicación,breedveld,com_album,1,,
+Aplicación,broadcom,symantec_messaging_gateway,1,7.5,7.5
+Aplicación,browserweb,whizz,1,,
+Aplicación,bestwebsoft,error_log_viewer,1,,
+Aplicación,bestwebsoft,google_analytics,1,,
+Aplicación,bestwebsoft,google_maps,1,,
+Aplicación,bestwebsoft,htaccess,1,,
+Sistema Operativo,microsoft,windows_10_1709,1,8.8,8.8
+Sistema Operativo,microsoft,windows_10_1803,1,8.8,8.8
+Sistema Operativo,microsoft,windows_10_1809,1,5.5,5.5
+Sistema Operativo,microsoft,windows_10_1909,1,5.5,5.5
+Sistema Operativo,microsoft,windows_10_20h2,1,5.5,5.5
+Sistema Operativo,microsoft,windows_10_21h1,1,5.5,5.5
+Sistema Operativo,netapp,element,1,8.1,8.1
+Sistema Operativo,netgear,ac1450_firmware,1,8.1,8.1
+Sistema Operativo,netgear,d6100_firmware,1,9.8,9.8
+Sistema Operativo,netgear,d6300_firmware,1,8.1,8.1
+Sistema Operativo,microsoft,windows_11_21h2,1,5.5,5.5
+Sistema Operativo,microsoft,windows_11_22h2,1,5.5,5.5
+Sistema Operativo,microsoft,windows_11_23h2,1,5.5,5.5
+Sistema Operativo,microsoft,windows_11_24h2,1,5.5,5.5
+Sistema Operativo,microsoft,windows_server_1709,1,8.8,8.8
+Sistema Operativo,microsoft,windows_server_1803,1,8.8,8.8
+Aplicación,bestwebsoft,user_role,1,,
+Aplicación,bestwebsoft,visitors_online,1,,
+Aplicación,bestwebsoft,zendesk_help_center,1,,
+Aplicación,blueflyingfish.no-ip,com_orgchart,1,,
+Aplicación,boa,boa,1,7.5,7.5
+Aplicación,boka,siteengine,1,,
+Sistema Operativo,netgear,dgnd3700_firmware,1,,
+Sistema Operativo,netgear,jnr1010v2_firmware,1,9.8,9.8
+Sistema Operativo,netgear,jnr3300_firmware,1,9.8,9.8
+Sistema Operativo,netgear,jwnr2010v5_firmware,1,9.8,9.8
+Sistema Operativo,netgear,r2000_firmware,1,9.8,9.8
+Sistema Operativo,netgear,r6100_firmware,1,9.8,9.8
+Sistema Operativo,netgear,r6200_firmware,1,8.1,8.1
+Sistema Operativo,netgear,r6220_firmware,1,9.8,9.8
+Sistema Operativo,netgear,r6250_firmware,1,8.8,8.8
+Sistema Operativo,microsoft,windows_server_2019,1,5.5,5.5
+Sistema Operativo,microsoft,windows_server_2022,1,5.5,5.5
+Sistema Operativo,microsoft,windows_server_2022_23h2,1,5.5,5.5
+Sistema Operativo,microsoft,windows_server_2025,1,5.5,5.5
+Sistema Operativo,motorola,android,1,7.8,7.8
+Sistema Operativo,mozilla,firefox_os,1,8.8,8.8
+Sistema Operativo,netapp,clustered_data_ontap,1,,
+Sistema Operativo,netgear,r7100lg_firmware,1,8.8,8.8
+Sistema Operativo,netgear,r7300dst_firmware,1,8.8,8.8
+Sistema Operativo,netgear,r7500_firmware,1,9.8,9.8
+Sistema Operativo,netgear,r7500v2_firmware,1,9.8,9.8
+Sistema Operativo,netgear,r7900_firmware,1,8.8,8.8
+Sistema Operativo,netgear,r8000_firmware,1,8.8,8.8
+Sistema Operativo,netgear,vegn2610_firmware,1,8.1,8.1
+Sistema Operativo,netgear,wn604_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wn802tv2_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnap320_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wndap210v2_firmware,1,9.8,9.8
+Sistema Operativo,netgear,d6300b_firmware,1,8.1,8.1
+Sistema Operativo,netgear,d7000_firmware,1,9.8,9.8
+Sistema Operativo,netgear,d7800_firmware,1,9.8,9.8
+Sistema Operativo,netgear,dgn2200_series_firmware,1,8.8,8.8
+Sistema Operativo,netgear,dgn2200bv4_firmware,1,8.1,8.1
+Sistema Operativo,netgear,wndr3800_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wndr4000_firmware,1,8.1,8.1
+Sistema Operativo,netgear,wndr4300_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wndr4300v2_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wndr4500_firmware,1,8.1,8.1
+Sistema Operativo,netgear,wndr4500v3_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wndr4700_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnr1000v2_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnr1000v3_firmware,1,8.1,8.1
+Sistema Operativo,netgear,wnr1000v4_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnr2000_firmware,1,9.8,9.8
+Sistema Operativo,netgear,r6300_firmware,1,8.1,8.1
+Sistema Operativo,netgear,r6400_firmware,1,8.8,8.8
+Sistema Operativo,netgear,r6700_firmware,1,8.8,8.8
+Sistema Operativo,netgear,r6900_firmware,1,8.8,8.8
+Sistema Operativo,netgear,r7000_firmware,1,8.8,8.8
+Aplicación,autonomy,ultraseek,1,,
+Sistema Operativo,netgear,wnr2050_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnr2200_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnr2500_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnr614_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnr618_firmware,1,9.8,9.8
+Sistema Operativo,nordex,nordex_control_2_scada,1,,
+Sistema Operativo,novell,suse_linux_enterprise_desktop,1,9.8,9.8
+Sistema Operativo,novell,suse_linux_enterprise_workstation_extension,1,9.8,9.8
+Sistema Operativo,nuuo,nvrmini_2,1,,
+Sistema Operativo,nuuo,nvrsolo,1,,
+Sistema Operativo,netgear,wndap350_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wndap360_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wndap660_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wndr3700v3_firmware,1,8.1,8.1
+Sistema Operativo,netgear,wndr3700v4_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnr2020_firmware,1,9.8,9.8
+Aplicación,bestwebsoft,linkedin,1,,
+Aplicación,bestwebsoft,pagination,1,,
+Aplicación,bestwebsoft,pdf_\&_print,1,,
+Aplicación,bestwebsoft,pinterest,1,,
+Aplicación,bestwebsoft,promobar,1,,
+Aplicación,bestwebsoft,rating,1,,
+Aplicación,bestwebsoft,realty,1,,
+Aplicación,bestwebsoft,sender,1,,
+Aplicación,bestwebsoft,smtp,1,,
+Aplicación,bestwebsoft,social_buttons_pack,1,,
+Aplicación,bestwebsoft,social_login,1,,
+Aplicación,bestwebsoft,subscriber,1,,
+Aplicación,atlassian,oauth,1,,
+Aplicación,attenzione,yousaytoo,1,,
+Aplicación,attribute_wizard_project,attribute_wizard,1,,
+Aplicación,aviary_image_editor_add-on_for_gravity_forms_project,aviary_image_editor_add-on_for_gravity_forms,1,,
+Aplicación,awdsolution,com_awdwall,1,,
+Aplicación,b-elektro,com_addressbook,1,,
+Aplicación,bentley,synchro,1,10.0,10.0
+Aplicación,bentley,synchro_4d,1,10.0,10.0
+Aplicación,bestwebsoft,contact_form,1,,
+Aplicación,bestwebsoft,contact_form_multi,1,,
+Aplicación,bestwebsoft,contact_form_to_db,1,,
+Aplicación,bestwebsoft,custom_admin_page,1,,
+Aplicación,bestwebsoft,custom_search,1,,
+Aplicación,apache,ofbiz,1,7.5,7.5
+Aplicación,apache,shiro,1,9.8,9.8
+Sistema Operativo,redhat,enterprise_linux_aus,1,7.0,7.0
+Sistema Operativo,netgear,wnr2000v3_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnr2000v4_firmware,1,9.8,9.8
+Sistema Operativo,netgear,wnr2000v5_firmware,1,9.8,9.8
+Aplicación,appserv_open_project,appserv,1,,
+Aplicación,arcserve,udp,1,9.1,9.1
+Aplicación,artica,pandora_fms,1,,
+Aplicación,artifex,ghostscript,1,7.8,7.8
+Aplicación,arubanetworks,clearpass_policy_manager,1,9.8,9.8
+Aplicación,atlassian,confluence,1,,
+Aplicación,atlassian,jira,1,,
+Aplicación,age_verification_project,age_verification,1,,
+Aplicación,ajax-random-post_project,ajax-random-post,1,,
+Aplicación,al-enterprise,omnipcx_enterprise_communication_server,1,9.8,9.8
+Aplicación,alibaba,fastjson,1,,
+Sistema Operativo,redhat,enterprise_linux_long_life,1,7.0,7.0
+Sistema Operativo,redhat,enterprise_linux_server_eus_from_rhui,1,6.5,6.5
+Sistema Operativo,redhat,enterprise_linux_server_for_power_little_endian_update_services_for_sap_solutions,1,8.1,8.1
+Sistema Operativo,redhat,enterprise_linux_tus,1,7.0,7.0
+Aplicación,avantfax,avantfax,1,,
+Sistema Operativo,siemens,simatic_ipc677c_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc677d_firmware,1,9.8,9.8
+Sistema Operativo,ricon,s9922l_firmware,1,7.5,7.5
+Sistema Operativo,samsung,x14j_firmware,1,8.8,8.8
+Sistema Operativo,seagate,blackarmor_nas_110_firmware,1,,
+Sistema Operativo,seagate,blackarmor_nas_220_firmware,1,,
+Sistema Operativo,siemens,6bk1602-0aa12-0tp0_firmware,1,10.0,10.0
+Sistema Operativo,siemens,6bk1602-0aa22-0tp0_firmware,1,10.0,10.0
+Sistema Operativo,siemens,6bk1602-0aa32-0tp0_firmware,1,10.0,10.0
+Sistema Operativo,siemens,6bk1602-0aa42-0tp0_firmware,1,10.0,10.0
+Sistema Operativo,siemens,6bk1602-0aa52-0tp0_firmware,1,10.0,10.0
+Sistema Operativo,siemens,application_processing_engine_firmware,1,7.5,7.5
+Sistema Operativo,siemens,cp_1543-1_firmware,1,7.5,7.5
+Sistema Operativo,siemens,simatic_cp_1543-1_firmware,1,7.5,7.5
+Aplicación,apache,solr,1,9.8,9.8
+Aplicación,apache,struts2-showcase,1,,
+Sistema Operativo,siemens,simatic_pcs_7_ipc847c_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_pcs_7_ipc847d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_field_pg_m3_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_field_pg_m4_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_field_pg_m5_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc427d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc427e_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc477d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc477e_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc547d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc547e_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc547g_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc627c_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc627d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc647c_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc647d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,sppa-t3000_ses3000_firmware,1,10.0,10.0
+Sistema Operativo,sony,snc_series_firmware,1,,
+Sistema Operativo,siemens,simatic_ipc827c_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc827d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc847c_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_ipc847d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_itp1000_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_pcs_7_ipc427e_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_pcs_7_ipc477d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_pcs_7_ipc547d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_pcs_7_ipc547e_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_pcs_7_ipc547g_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_pcs_7_ipc627c_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_pcs_7_ipc647c_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_pcs_7_ipc647d_firmware,1,9.8,9.8
+Sistema Operativo,siemens,simatic_pcs_7_ipc677c_firmware,1,9.8,9.8
+Sistema Operativo,trendnet,tew-731br_firmware,1,9.8,9.8
+Aplicación,affiliatefeeds,com_datafeeds,1,,
+Sistema Operativo,tp-link,tl-wr740n_firmware,1,7.5,7.5
+Sistema Operativo,tp-link,tl-wdr4300_firmware,1,7.5,7.5
+Aplicación,adobe,blazeds,1,6.5,6.5
+Aplicación,adobe,dispatcher,1,,
+Aplicación,adobe,experience_manager,1,,
+Aplicación,adobe,flex_data_services,1,6.5,6.5
+Aplicación,adobe,livecycle,1,6.5,6.5
+Aplicación,adobe,livecycle_data_services,1,6.5,6.5
+Aplicación,ab_google_map_travel_project,ab_google_map_travel,1,,
+Sistema Operativo,siemens,simatic_s7-1500_firmware,1,7.5,7.5
+Sistema Operativo,siemens,simatic_s7-1500t_firmware,1,7.5,7.5
+Sistema Operativo,siemens,simatic_s7_cpu_1200_firmware,1,,
+Sistema Operativo,siemens,simotion_p320-4_s_firmware,1,9.8,9.8
+Aplicación,alphaplug,com_alphauserpoints,1,,
+Aplicación,ssh,ssh,1,,
+Aplicación,stageshow_project,stageshow,1,,
+Sistema Operativo,suse,suse_linux_enterprise_desktop,1,5.5,5.5
+Sistema Operativo,suse,suse_linux_enterprise_high_availability_extension,1,5.5,5.5
+Sistema Operativo,thermofisher,dt80_dex_firmware,1,9.8,9.8
+Sistema Operativo,tp-link,archer_c5_firmware,1,7.5,7.5
+Sistema Operativo,tp-link,archer_c7_firmware,1,7.5,7.5
+Sistema Operativo,tp-link,archer_c8_firmware,1,7.5,7.5
+Sistema Operativo,tp-link,archer_c9_firmware,1,7.5,7.5
+Sistema Operativo,tp-link,tl-wdr3500_firmware,1,7.5,7.5
+Sistema Operativo,tp-link,tl-wdr3600_firmware,1,7.5,7.5
+Aplicación,admin-font-editor_project,admin-font-editor,1,,
+Aplicación,adobe,adobe_air_sdk,1,8.8,8.8
+Sistema Operativo,trendnet,tew-651br_firmware,1,9.8,9.8
+Sistema Operativo,trendnet,tew-652br_firmware,1,9.8,9.8
+Sistema Operativo,trendnet,tew-711br_firmware,1,9.8,9.8
