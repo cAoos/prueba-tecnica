@@ -8,7 +8,7 @@ import { Cve, RespuestaPaginada } from '../models/cve.model';
 })
 export class CveService {
 
-  private readonly apiUrl = 'http://localhost:8081/api/cves';
+  private readonly apiUrl = 'https://prueba-tecnica-production-f204.up.railway.app/api/cves';
 
   constructor(private http: HttpClient) {}
 
