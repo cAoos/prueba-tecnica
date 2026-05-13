@@ -1,27 +1,15 @@
-"""
-Nombre: config.py
-Autor: Cesar Ospina Muñoz
-Fecha: 2026-05-12
-Descripción: Configuración global de la aplicación.
-"""
-
 from pathlib import Path
 
-# Ruta al CSV generado por Etapa 1
-RUTA_CSV = (
+# En producción el CSV está en data/ dentro del proyecto
+# En local busca primero ahí, luego en Etapa1/output/
+RUTA_CSV_LOCAL = Path(__file__).parent / "data" / "vulnerabilidades.csv"
+RUTA_CSV_ETAPA1 = (
     Path.home()
-    / "Documentos"
-    / "Bancolombia"
-    / "Repo"
-    / "Etapa1"
-    / "output"
-    / "vulnerabilidades.csv"
+    / "Documentos" / "Bancolombia" / "Repo"
+    / "Etapa1" / "output" / "vulnerabilidades.csv"
 )
 
-# Puerto del servidor
-PUERTO = 8080
+RUTA_CSV = RUTA_CSV_LOCAL if RUTA_CSV_LOCAL.exists() else RUTA_CSV_ETAPA1
 
-# Orígenes permitidos para CORS
-ORIGENES_PERMITIDOS = [
-    "http://localhost:4200",
-]
+PUERTO = 8080
+ORIGENES_PERMITIDOS = ["*"]
