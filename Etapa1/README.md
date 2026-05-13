@@ -68,8 +68,8 @@ Al ejecutarlo, el sistema pregunta:
     2. Usar solo CVEs ya descargados en caché
 ```
 
-- **Opción 1** — consulta el NIST por cada CVE. Con API key.
-- **Opción 2** — usa los datos ya descargados en `cache/`. Inmediato, sin llamadas a la API.
+- **Opción 1** : consulta el NIST por cada CVE. Con API key.
+- **Opción 2** : usa los datos ya descargados en `cache/`. Inmediato, sin llamadas a la API.
 
 ---
 
@@ -113,12 +113,12 @@ Al ejecutarlo, el sistema pregunta:
 
 ### Resumen general
 
-| Métrica | Valor |
-|---------|-------|
-| Total CVEs analizados | 5.243 |
-| CVEs solo en CISA KEV | 1.149 |
-| CVEs solo en Nuclei | 3.653 |
-| CVEs presentes en ambas fuentes | 441 |
+| Métrica                         | Valor |
+| ------------------------------- | ----- |
+| Total CVEs analizados           | 5.243 |
+| CVEs solo en CISA KEV           | 1.149 |
+| CVEs solo en Nuclei             | 3.653 |
+| CVEs presentes en ambas fuentes | 441   |
 
 ---
 
@@ -144,20 +144,20 @@ De los 664 CVEs con datos de severidad disponibles, MEDIUM domina con el 46.8%, 
 
 ![Top CWEs](output/grafica_top_cwes_frecuentes.png)
 
-| CWE | Nombre | CVEs |
-|-----|--------|------|
-| CWE-22 | Path Traversal | 200 |
-| CWE-79 | Cross-site Scripting (XSS) | 94 |
-| CWE-787 | Out-of-bounds Write | 34 |
-| CWE-20 | Improper Input Validation | 26 |
-| CWE-416 | Use After Free | 21 |
-| CWE-94 | Code Injection | 17 |
-| CWE-119 | Buffer Overflow | 15 |
-| CWE-284 | Improper Access Control | 13 |
-| CWE-89 | SQL Injection | 13 |
-| CWE-77 | Command Injection | 12 |
+| CWE     | Nombre                     | CVEs |
+| ------- | -------------------------- | ---- |
+| CWE-79  | Cross-site Scripting (XSS) | 701  |
+| CWE-22  | Path Traversal             | 461  |
+| CWE-89  | SQL Injection              | 270  |
+| CWE-78  | OS Command Injection       | 159  |
+| CWE-787 | Out-of-bounds Write        | 127  |
+| CWE-94  | Code Injection             | 91   |
+| CWE-20  | Improper Input Validation  | 90   |
+| CWE-601 | Open Redirect              | 88   |
+| CWE-306 | Missing Authentication     | 82   |
+| CWE-287 | Improper Authentication    | 81   |
 
-**CWE-22 (Path Traversal)** lidera con 200 CVEs, vulnerabilidades que permiten a un atacante acceder a archivos fuera del directorio permitido. **CWE-79 (XSS)** ocupa el segundo lugar con 94 CVEs, siendo la debilidad más explotada en aplicaciones web.
+**CWE-79 Cross-site Scripting (XSS)** lidera con 701 CVEs. **CWE-22 Path Traversal** ocupa el segundo lugar con 461 CVEs, vulnerabilidades que permiten a un atacante acceder a archivos fuera del directorio permitido.
 
 ---
 
@@ -165,7 +165,7 @@ De los 664 CVEs con datos de severidad disponibles, MEDIUM domina con el 46.8%, 
 
 ![Score por CWE](output/grafica_score_promedio_cwe.png)
 
-**CWE-77 (Command Injection)** tiene el score promedio más alto con 9.36, territorio CRITICAL. Esto indica que aunque no es el CWE más frecuente, cuando aparece tiende a ser extremadamente grave. **CWE-79 (XSS)** tiene el score más bajo (4.69, MEDIUM), lo que refleja que su impacto depende mucho del contexto de la aplicación.
+**CWE-78 (OS Command Injection)** tiene el score promedio más alto con 9.23, territorio CRITICAL. Esto indica que aunque no es el CWE más frecuente, cuando aparece tiende a ser extremadamente grave. 
 
 ---
 
@@ -173,20 +173,9 @@ De los 664 CVEs con datos de severidad disponibles, MEDIUM domina con el 46.8%, 
 
 ![Top plataformas](output/grafica_top_plataformas_cpe.png)
 
-| Posición | Vendor / Producto               | CVEs | Tipo       |
-| -------- | ------------------------------- | ---- | ---------- |
-| 1        | Joomla / Joomla                 | 100  | Aplicación |
-| 2        | Microsoft / Windows Server 2008 | 57   | SO         |
-| 3        | Microsoft / Windows 7           | 56   | SO         |
-| 4        | Microsoft / Windows Vista       | 52   | SO         |
-| 5        | Microsoft / Windows 8.1         | 48   | SO         |
-| 6        | Microsoft / Windows Server 2012 | 48   | SO         |
-| 7        | OpenSUSE / OpenSUSE             | 46   | SO         |
-| 8        | Microsoft / Windows             | 44   | SO         |
-| 9        | Apple / Mac OS X                | 41   | SO         |
-| 10       | Linux / Linux Kernel            | 38   | SO         |
 
-**Joomla** es el software de aplicación más vulnerable del dataset con 100 CVEs únicos. Microsoft domina el ranking de sistemas operativos con múltiples versiones de Windows, en su mayoría versiones ya sin soporte, lo que explica el alto número de vulnerabilidades acumuladas sin parche.
+
+**Microsoft** domina el ranking de sistemas operativos con múltiples versiones de Windows, en su mayoría versiones ya sin soporte, lo que explica el alto número de vulnerabilidades acumuladas sin parche.
 
 ---
 
@@ -244,6 +233,8 @@ La línea temporal muestra el volumen de CVEs añadidos a CISA KEV por mes desde
 
 A partir de mediados de 2022 el volumen se estabiliza alrededor de la media histórica de **28.9 CVEs/mes**, lo que indica que el proceso de CISA maduró hacia un modelo reactivo y continuo.
 
+> Nota:
+> Los datos analizados se realizan basados en una muestra de 3497 CVE.
 ---
 
 ### Archivos adicionales generados
