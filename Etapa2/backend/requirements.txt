@@ -3,3 +3,5 @@ uvicorn==0.34.2
 pandas==2.2.3
 python-multipart==0.0.20
 python-dotenv==1.0.1
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.30
